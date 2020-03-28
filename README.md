@@ -1,4 +1,4 @@
-# Stateset Deep Leanring with Fast.ai and PyTorch
+# Stateset Deep Learning with Fast.ai and PyTorch
 
 Deep Learning Models with Stateset Network Data
 
