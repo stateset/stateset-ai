@@ -5,7 +5,6 @@ import OrganizationContext from '../../components/OrganizationContext';
 const { Parser } = require('json2csv');
 const fs = require("fs");
 const ObjectsToCsv = require('objects-to-csv');
-const Blob = require('blob');
 
 export default (props) => {
   
@@ -18,23 +17,40 @@ export default (props) => {
         }
       };
   
-    axios.get("https://stateset.network:8080/api/stateset/getAccounts", axiosConfig)
+    axios.get("https://stateset.network:8080/api/princeton/getInvoices", axiosConfig)
       .then(res => {
   
         console.log(res.data);
-        const accountFields = ["accountId", "accountName", "accountType", "industry", "phone", "yearStarted", "annualRevenue", "businessAddress", "businessCity", "businessState", "businessZipCode", "controller", "processor" ];
+        const invoiceFields = [ "invoiceNumber",
+        "invoiceName",
+        "billingReason",
+        "amountDue",
+        "amountPaid",
+        "amountRemaining",
+        "subtotal",
+        "total",
+        "party",
+        "counterparty",
+        "dueDate",
+        "periodStartDate",
+        "periodEndDate",
+        "paid",
+        "active",
+        "createdAt",
+        "lastUpdated",
+        "linearId" ];
   
         // convert json to csv
-        const json2csvParser = new Parser({ fields: accountFields });
+        const json2csvParser = new Parser({ fields: invoiceFields });
         const csv = json2csvParser.parse(res.data);
   
         // console log 
         console.log(csv);
         
         // save updated csv and write to file dir
-        const accountFile = new ObjectsToCsv(res.data);
+        const invoiceFile = new ObjectsToCsv(res.data);
 
-        accountFile.toDisk('../stateset-ai/data/accounts/accounts.csv', { append: true })
+        invoiceFile.toDisk('../stateset-ai/data/invoices/invoices.csv', { append: true })
         }
     )
 };
