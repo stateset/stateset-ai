@@ -1,0 +1,1448 @@
+Definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it. I will continue to build the mastermind group and devote my energy to drive combinatorial creativity through technology and people.
+
+We are on the edge of the future - seeing the emergence of technology that we dreamed of years ago; AI powered bots, Holographic GUIs, autonomous vehicles, decentralized application networks. It's happening fast. There is new form of distributed world consciousness of truth in the internet, it enables people to come to distributed consensus about certain things. Sometimes it is tough to tell which are certain, cryptographic proof of providence of content will become a standard. Ratings and reputation currency creating the convergence of identity. Proliferation of meta-physics in numbers. More ICOs, tokenized application networks, appcoin protocols, zero-proof currency spinoffs, enterprise crypto consortium, and crypto hedge-funds.
+
+There is a shift that is happening; it is rooted in the rapid expansion of decentralized cryptographic protocols. Public private key pairs are becoming common use for securing/storing digital assets, providing proof, determining truth. Where our data lives, who owns the data, and who can that change data are all questions that are being asked. Collectively we have a distributed consciousness in the internet; there is a small gap from when we wake up to when we check state. This could be the glance of a cryptocurrency price, notifications, categorizing messages; it is our terminal into a digital world that is layered and distributed. We tap into the information layer, we trade intangible digital value waves that we are collectively starting to operate on constantly. The technology is converging and accelerating; there is an interesting shift happening and decentralized technologies are what is driving it.
+
+This year went by extremely fast. I learned a ton about starting a business, traveled around the world, built on new blockchain protocols, went and saw the future and came back to work on that which I believe shaped it in the present.
+
+There is the confluence of technology that is happening before our eyes, we're accelerating towards it. We are all so immersed in our phones; constantly updating a collective of which we are all aspirants of. Though the pendulum is shifting in a way to give the creators back the future. It will be between the technology incumbents and those with the ability to harness the gifts in applied cryptography and distributed systems. Technology is all around us and all encompassing. There are so many new languages, new frameworks being developed, new platforms for application development, new approaches; superpowers being given to us in a golden age of technological development. The level of control that one has at their finger tips to provision, automate and control computational resources is baffling. The level of control that one has at their figure tips with sound money not bound to a particular state is baffling. With one keyboard and a monitor you can patch into the world's computing power; for application development and for transferring ownership of value. You can leverage the compute of the giants or build on the new computing paradigm. The future of enterprise software is built on next generation, traversable, merkalised data structures.
+
+
+This past year was very different then any year in the previous decade or for that matter of my lifetime.
+The world changed rapidly. Everything is accelerating. I spent alot of time this year writing code. I wrote code for fetching and transforming data for machine learning, I wrote a ton of next.js react and graphQL based web applications and I wrote more Kotlin and learned more about the lower infrastrucutre automation tools and devops practionining. I am learning more about Deep Learning. I spent alot of time learning about Zero Knowledge Proof circuits and how they can be applied to B2B automation. The world is somewhat polarized, collaboratively filtered to ones view and group. This filtering is breaking some of the discourse that is needed to resolve issues, to advance society. Bitcoin and Blockchain and AI is accelerating fast as the world watches the US and China compete for the future.
+
+
+The world is advancing towards making public blockchain networks the censorship resistant, universal, source of truth. Tech giant encumbents are moving towards adopting this technology in an effort as web3 comes for web2. Virtual Reality, Artificial Intelligence and Blockchain networks are the stack to create the future. We spend so much of our waking hours on our mobile devices. State is universal but is transitioning towards being completely universal and decentralized. The networks we use for identity, governance, money, art, media are all transcending into blockchain networks. Bitcoin has created and sparked a cambrian explosion of innovation in the world. We see a way to rebuild the next generation of the internet. I am excited about this future and want to contribute all that I can towards building it. I want to learn as much as I can about the technologies that enable this revolution. The world needs to leverage these technologies to build a better future. One that is owned by the individual creator and without middlemen. The world is ready to put the pandemic behind us. There has never been a better time to be a designer, a builder, a creator and it is the beginning of the roaring 20's. A decade that will be defined by cryptocurrencies.
+
+This year I spent time building for the future. Remote from home, building systems with people around the world. The digital distance to engage has never been shorter. Physically distant yet self-organizing and connected in this cybernetic, always on, state interpretation. We have singleton moments like the world cup but most everything else is somewhat fractal, polarized, cherry picked, self enforcing. The physical world still operates in it’s own localities, with opt-ins games to play. There are writers in Nashville’s, Entrepreneurs in Silicon Valley’s, Actors in LA’s. All playing different games and in different states of mind. Though there is the evermore capturing digital realm that we are all aspirants in. Characters known within a digital singleton. How do we find and verify truth in this digital realm? What is the means the global community of humans on the internet, can settle against? What is the totem of objective reality in digital world filled with bots, deepfakes, pfp avatars, hit / puff pieces? Is block height and header hash the flag of technological and provably indifferent and unbiased truth? What are the implications of humanity interpreting reality through a single pane of glass we all individually have? Can we build a future network where there is privacy preserving veridical proof?
+
+What is the totem of the objective reality in the physical world? Can we usher in future where humanity strives to come together as one? Where we can live longer, cure cognitive diseases, spend time on things worth building for the betterment or the future? Where we have the time to collaborate on solving the hardest problems that make life better. We need to figure out a global schelling point in order for us to come together. Is it a unified global digital asset, is it a Cambrian explosion of creativity powered through AI, is it the survival of the planet? Is there a way for us to steer ourselves towards a future where individuals have sovereignty, privacy and the freedom to work on whatever it is they want as we race ahead into the future? Can we build systems that do not deplatform, that are not rigged, that enable humans to have ownership and agency? Can we build a global community online where incentives are aligned, there are opt-in north star’s with clarity, coordination on a global scale in a way that enables trust and produces outcomes that benefit humanity? How might we build this future? How might we build systems that leverage the digital totem as a backstop against that which tries arbitrarily control? What is the best way to empower individuals around the world to deliver on their dreams? How might we turn more characters into heros in the physical and digital realm?
+
+### Abstract
+
+The ability to transfer and hold value is intrinsic to human nature. The classic gold standard established a common denominator for countries to participate in international trade, investment, and finance. After World War II, the Bretton Woods monetary system reformed the gold standard and made the United States dollar the centerpiece of the global monetary order. This established a standard where the value of other currencies would float compared to the dollar which was pegged at 35 dollars per ounce of gold. In 1973, in an effort to give itself more monetary freedom, the United States government chose to abandon the gold standard under the Bretton Woods system. Today there are regional monetary systems that vary in stability based upon geographical location but ultimately there is an absence of a global monetary system.
+
+### Introduction
+
+The globalization of our economy and the outsourcing of manufacturing has shattered the Ford Model which would pay high wages to its workers so they could go out and buy the products they made domestically. American corporations now outsource production to geographical markets where there is more cost effective labor and resources. These businesses leverage the interconnectedness of the global economy to augment economic production and surplus value. Despite these capital gains at the enterprise level, wages for middle class domestic workers have remained stagnant and the United States economy is 70% based on consumer spending. Globalization and the Internet changed the demand for domestic employment and furthermore increased the demand for imports of goods and services. The global flow of information via the Internet has created exponential growth and development for companies due to the cost effectiveness of software and different types of digital technologies. Despite these advancements, there is global economic turmoil as seen in financial crisis in Europe, the bail-in in Cyprus, inflation of currencies in Latin America, and the Great Recession in the United States. A functioning global monetary system over the internet that serves as a common denominator has not been established and is needed for the recovery of the global economy. The Bitcoin protocol, the first namespace for deregulated international transfer of ownership, will serve as a common denominator for international trade and be the single greatest technological achievement thus far in the 21st century.
+
+### The Protocol
+
+The technology to implement such a global monetary system has emerged through a combinational creativity of cryptography, mathematical proofs, global internet infrastructure, and failure in the security and transparency of current international monetary regimes. This new system, the Internet of Money, is a digital time stamped public ledger operated by a network of computers around the world. These computers verify peer-2-peer transactions without the need for a third party institution. Why is it that any transfer of ownership has to go through a third-party or fiat institution? What if there was a way to store and transfer any scarce asset of any amount on your own mobile apparatus regardless of geographical location? How could such an empowering technology become adopted and used by consumers and merchants to optimize trade efficiency, specialization between international markets, and ultimately increase the effectiveness of secure, transparent international finance? The core technology of this global financial platform is analogous to the HTTP protocol which is what the Internet and every social network is built upon. The intrinsic value of this new system, like many new network effect protocols, is in its user base. The network effect of this global financial revolution will augment the abilities of international small and medium enterprises to operate in a free global market.
+
+### The Potential
+
+Many industries have been turned upside by the digitization of content over the Internet. Blockbuster Video was replaced by Netflix, Barnes & Nobles lost considerable market share to Amazon, and this new exchange technology has even more disruptive potential in almost every industry. By the year 2020, there will be 5 billion people connected to the internet. These people will be able to share their thoughts, moments, projects in a globally connected world. With existing international financial regimes, the unbanked in developing countries will be unable to reap the benefits of an interconnected global economy. Bitcoin will empower developing countries to leap into a new global economy. It will also enable developed countries to find new market channels in e-commerce and furthermore increase the revenue per user in international ventures.
+
+### The Blockchain and Bitcoin
+
+To understand why a global deregulated public ledger will be effective for international trade, we have to look at the block chain, the core technology of bitcoin. The block chain is as intrinsic to bitcoin as the HTTP protocol is intrinsic to the Internet. The block chain is a timestamp server that prevents the double-spending of bitcoin by giving computational proof that the network of servers verified the original transfer of ownership. The first application that utilizes the block chain transfer of ownership is the in form of a digital currency. This namespace for this application is Bitcoin. Bitcoin is a non-fiat digital crypto currency and payment network operated by computers around the world that verify peer-2-peer transactions on a public ledger. Bitcoin is analogous to the light bulb in relation to the electrical grid. There are much more intricate and coupled applications that are built on the electrical grid such as water systems, defense protocols, and communication networks. However, the incandescent light bulb was the on loading mechanism in what would ultimately substitute candles and transform into a digitally connected globe. The development of these other technologies happened over the course of a century but ultimately electricity was implemented and served as self-evident. The ability to move value electronically without counter parties and without IOUs and promises is very useful. Bitcoin is the first digital verifiable proof of ownership without the need for a third party institution. The current transfer system that is in place depends on a third party bank or fiat institution to know the identities of the parties involved and keep transactions hidden.
+
+
+This new distributed system is built on the block chain that detaches the identity of the parties involved but publishes every transaction to verify by the network of computers.
+
+### The Network
+
+These computers have be known as bitcoin “miners”. The owners of these miners are compensated in bitcoin for devoting their electricity and computing power to sustain the network that verifies the transactions. When bitcoins are “mined”, it is the process of computers combining their computational ability to solve the mathematical algorithm that verifies and timestamps a digital chain of chronological transactions over the global bitcoin network. Only 21 million bitcoins will ever be mined to keep currency to a finite amount to prevent inflation.20140521-094938-35378949.jpg
+As more bitcoins are released into the market over time the difficulty of the mathematical algorithm increases and therefore more computing capacity is demanded. The difficulty of the mathematical algorithm is determined by the computing power that is outputted by the miners. It is a proportional mathematical algorithm that allows only 25 bitcoins to be mined every 10 minutes. The number of bitcoins released when a block is mined, or a block of transactions are verified, will retain a half-life so the as it gets closer to 21 million less coins are released into the market.20140521-163723-59843022.jpgMiners are incentivized to sustain the network by being rewarded the newly created bitcoins released into the market in exchange for their devotion of electrical and computing capacity.
+
+### Transfer of Ownership
+
+So why is this the most revolutionary technology known thus far in human history? The reason is the transfer of ownership. It is a programmable way to transfer scarce resources of any kind. The true value in block chains public ledgers is that other applications that enable the exchange of scarce digital assets can be built on this protocol. These block chains could enable real time digital auctions for analog assets such as a parking spot or a share economy physical asset. Any type of transaction where party A can transfer ownership to party B without the need for party C. People connected to the internet in Africa, Asia, India, and South America will be able to participate in a global free market with a common digital denominator. The current international transactions for remittances via Western Union or other third party processors is not only inefficient with regard to time, but it also costs the parties involved higher percentage per transactions. With bitcoin, families will be able to send and receive remittances instantly over borders without having to go to a bank or payment processer. International travelers will also be able to benefit from Bitcoin by avoiding exchange rates and fees for acquiring local currency. There is no central authority or fiat distributor. As a result there is a finite number of Bitcoin therefore it will eventually become scarce and mathematically there is no way of insolvency. The intrinsic value is in the technology that enables the protocol and facilitates the distribution of any scarce asset; digital or physical. Bitcoin removes friction and barriers for the transfer of ownership. Stocks, bonds, real-estate, escrow, microloans, gambling, crowd funding and P2P contracts all will be executed on decentralized networks.
+
+### Decentralized Asset Exchange
+
+The multiple block chain applications that will be developed over time have been referred to as colored coins or designated digital “smart contracts” by a new protocol named Ethereum. Ethereum is a platform, a scripting language, and ultimately a new decentralized system for developers around the world to build with. This can be any sort of deal, contract, exchange that can be mathematically expressed in code. It enables the parties to set the terms in a publicly verifiable and protected transaction. There is an even greater application that will emerge from these types of systems. This is the DAO, or Decentralized Autonomous Organization. Imagine a corporation 20 years from now that is completely automated, checked and balanced in its management by computer code, providing a service that is globally accessible. This is the DAO. An organization that relies on the network and the programmers pivoting with hacks that maximize the user experience and delegate operations more efficiently to the computer system. Developers around the world can instill Artificial Intelligence into a publicly traded corporation, a voting system, or even a manufacturing facility. The open source system will enable people to effectively build an organization with code, set it in motion, and delegate operations to machines and data servers around the world. The value in a decentralized distributed system such as Ethereum is that anyone with an apparatus verifying contracts is now an additional node on the network. Marc Andreesen of Andreesen Horowitz predicted that chip manufactures will soon start building chips that can support an OS and mine.20140521-100154-36114417.jpg
+An ever growing network of nodes, in every electronic device, verifying contracts between two people or within autonomous organizations. There will be an unlimited number of applications and organizations that are built on the block chain in the future.
+
+### The Promise
+
+Bitcoin is not about price speculation. It is about the promise of the underlying technology and the effect it will have on the global economy for those who wish to embrace and develop it. Bitcoin is the forefront of disruptive technology in the digital world. It is the first application of many to the distributed consensus asset ledger. The protocol is a frictionless digital api for trading and storing scarce resources of virtually any magnitude. Is the Internet like mail, telephones, or broadcast TV? Is Bitcoin commodity, currency, property, protocol? The answer to both questions is all of the above. Many other applications of asset transfer and proof of ownership can and will be implemented with the digital signature, time stamped, public ledger(s). This is gold 2.0, the first programmable currency that lets a computer program set a transaction or series of transaction in motion. This is the first application of many that facilitate a digital exchange system that is not limited by geography.
+
+### Development
+
+Ultimately this new technology establishes a global monetary system to replace unstable regional monetary arrangements. Since 1973, international monetary relations have been based on floating exchange rates among the major currencies. This system is outdated and needs to leverage the internet. This protocol is the answer to a new global level international monetary regime. The software engineers and venture capitalist which developed the Internet into the revolutionary technology it is today, are seeing parallels and are captivated by the potential for the applications that Bitcoin and block chain technologies will enable. It will take a couple years to develop; at its core technology by software engineers, by venture capital investments in Bitcoin startups and entrepreneurs, and by merchants and users for mass adoption. There has been a substantial amount of investment in Bitcoin in 2013 and 2014. The same venture capital interest that was surrounding the internet in 1995 is being seen around the Bitcoin ecosystem. The run rate for VC investment in Bitcoin companies is projected to double compare to 2013.
+
+### Conclusion
+
+It is an exciting time for our global population in a limitless digital age that continues to exponentially grow. The block chain protocol will enhance domestic trade and global flows of trade between developed and developing countries. Bitcoin is just the first application of many for new mechanisms of transfer of ownership. It can be a common denominator for global finance by leveraging the internet and its user base. This is the internet’s 2.0 version. The first stage put all of the world’s information in your pocket on a mobile apparatus. This emerging stage puts an international programmable bank in your pocket. This is the true definition of mobile, location will be irrelevant when someone wants to buy, sell, or trade and kind of asset to any other person on the globe. The network effect will ultimately be the catalyst for the price value and market capitalization, and overall growth over the next few years. This technology will revolutionize international trade and provide a new more stable and secure global economy.
+
+
+There’s something about setting up a computer that prints out a digital currency while you sleep. It could be knowing that you are turning electricity into a globally tradable commodity. It could be knowing that you have setup a small stake in a global socio-economic experiment much larger than yourself. Whatever it is, the concept of digitally “mining” something is captivating by nature. This incentivized distribution and transaction verification mechanism is the backbone of the Bitcoin network.
+
+The open-source nature of mining has created a competitive and volatile market that has evolved dramatically over the past two years. Although the mining industry has flourished, concerns have risen with the network’s current state:
+
+Vulnerable to Centralization: The “51% attack”, if some entity were to acquire a majority of the hashing power of the network it could therefore uproot the time-stamping verification mechanism that prevents double spending transactions, it could reverse transactions, and ultimately make its own blockchain the longest effectively destroying the transaction security of the protocol. Last month Ghash, currently the largest mining pool, controlled over 50% of the network for a few days. They have stated that they will do everything they can to stay  in control of under 40% the network but can we still consider the network decentralized?
+The Incentive for Miners: As more hashing power is added to the network, the network difficulty increases (to sustain the distribution rate) and therefore more investment in mining equipment is needed to make mining profitable. The entire network gains about 800 TH/s every day. Even early adopters with access to capital and ASIC Machines still have small margins when taking into account all of the costs associated with mining. Will miners continue to make  investments in the next generation miners needed to make a profit?
+The Need for more Full Nodes: One of the main concerns regarding the network is that there are not enough fully validating Bitcoin client nodes. By running a full client p2p node like Bitcoin Core you are actually becoming a node on the network. If you are running an ASIC Miner most likely you are not running a full node. It is important to distinguish full nodes versus ASIC miners. Full node clients take time to load the entire blockchain history as it is almost 20 GB. There are currently around 7,000 reachable full nodes in the world (according to getaddr.bitnodes.io). How can you create incentive for people to download and setup a full node core client versus just buying an ASIC Miner?
+Is the solution a new proof of “x” mining algorithm in the open-source bitcoin core software or will the Bitcoin network fix itself overtime?
+
+The Evolution of Mining Hardware
+
+Bitcoin mining is a combination of hardware, software and networking. Originally, mining was done by CPU processing power, then it was augmented with GPU graphics cards, and in the past year hardware built specifically for mining Bitcoin, ASIC Miners, have come to dominate the network.
+
+The first ASIC Miners came in the form of USB Miners.These rigs were comprised of a couple 336 M/Hs USB workers, a powered USB hub and a Raspberry Pi to run the mining software. At one point these USB ASICs were going for around $100 a piece. However, with the exponential increase in the difficulty over the past few months these miners have dropped in price significantly and have become obsolete in regards to mining to make a profit.
+
+The more powerful miners that once were thousands of dollars also dropped in price with the increase in difficulty. This made investments in more powerful hardware (Block Erupter Cubes running 30-38 GH/s, Antminers 100s of GH/s, and Terra Hash Miners) more affordable for miners. The drop in the price in mining hardware has been driven by the price of Bitcoin and the difficulty of the network. The price has gone from roughly $1,000  in January down to around $450 and has been between $600-$650 for the past month.The difficulty and hash rate has increased at an exponential rate. The network has doubled its size every three months effectively making existing miners less of factor in comparison to next generation Terra Hash miners and the network as a whole.
+
+It is important to note that if the price of Bitcoin increases, and the difficulty and hashrate decrease, the price of all mining hardware could increase substantially. However, if the current pattern of the difficulty and hashrate increasing continues, then the price of mining hardware per GH/s will continue to decrease over time.
+
+So can mining be profitable? Yes, but it really depends on the time when you buy the hardware, your electricity and spacial capacity, and ultimately the price of Bitcoin. You could mine 10 bitcoins over a 6 months period and the price of those 10 Bitcoins could double overnight and you will have made a profit on your capital investment. On the other hand, the difficulty and hashrate could increase to where your once very effective miner that would make daily pool payouts now takes maybe a few days, even weeks to payout.  There needs to be a way for miners to validate their own blocks and be compensated in proportion to their hashrate without having to join a pool.
+
+The Future of Self Mining and Business Miners
+
+One way to achieve this, freemining, gives miners the ability to select their own block content. This will dramatically affect the mining industry and possibly bring it back to a decentralized state.  If every small and medium sized business around the world had their own miner that is running a freemining fully validating p2p node, they could process and validate their own transactions in their own blocks. It could become a customary piece of office hardware in any office. This would give small and medium sized business the capacity to process their own transactions autonomously and instantly at zero to little costs to anywhere in the world.
+
+Business Miners would enable access into global e-commerce markets and increase revenues on per international users. Currently the largest customer base for internet companies represents a lower portion of revenue per user. This enterprise problem could be solved by using micro-transactions processed by business miners. This industry could open revenue streams in developing markets that could completely change supply side logistics, remittance markets, and transfer records given the right integration will glocal mobile payment applications.
+
+Bitcoin mining enables business around the globe to enter the digital market at a very minimal capital costs. This is not only incentivizing them to accumulate Bitcoins but it will also increase adoption among customers and competing merchants. Business will see they can avoid the costs that current payment processors charge per swipe or at a monthly premium. They can bypass the fees and delay in time of international wire transfers. Business to Business miners could send, verify and record anything over the blockchain.
+
+The downside is that these business would have to download and setup full nodes. These core clients require miners to require more initial setup, bandwidth, and computational power. There needs to be a way to incentivize setting up these types of core nodes. If you could effectively download a full node and have to ability to mine on mobile devices there would be more an significant increase in the number of core nodes in the network. Although the difficulty and hash-rate is being driven up by ASICs, the number of reachable nodes with full transaction history are still small. This in essence means that there is a disconnect between the core proof of work problem and how it results in the decentralization of the network.
+
+One of the ways to fix this problem would be to change the Bitcoin core proof of work algorithm. The tough thing about this is that every change has to be tested in use. This is why a lot of altcoins are considered the test beds for new block release times, proofs of X, and different amounts of coins per block released.
+
+It is about building the transaction volume capacity, efficiency, and security of Bitcoin as a global protocol. For mining to continue to be decentralized, it is essential to increase the number of nodes in any way possible. Some have even suggested putting full Bitcoin nodes in orbit.
+
+Mining has the robust combination of unstructured simplicity and limitless potential for worldwide adoption. A ton of applications will be built on these types of  global decentralized networks over the next couple years. Ultimately, no matter what titled asset is being transferred and recorded in the blockchain, there needs to be incentive for miners to keep hashing.
+
+The means of developing replicated state machines.
+
+Decentralized and permissionless state replication as well as distributed application specific state replication are defining the next era of computing. Replication of data on distributed systems using leaders and workers, distributed micro-services and containers, peer-to-peer blockchain protocols, UTXOs, and digitally enforceable agreements and agents. Blockchain is the next generation database architecture for trust minimized computing.
+
+A database needs to do two things:
+
+When you give it some data, it should store the data, and when you ask it again later (via a query language); it should give the data back to you.
+
+Data Models: the Format in which you give the database your data.
+
+SQL
+key-value
+NoSQL
+Graph
+Query Language: The mechanism by which you can ask for it again later.
+
+How does network replicate it’s state so that:
+
+the graph grows
+it determines validity
+it determines order, if needed
+the history is shared
+economically incentivized
+logic is shareable, upgradeable
+Trust is the key feature of blockchain protocols;
+
+Because of this the protocol can mutate and replicate and incentivize. Is the process of mutation ever seemingly finished, code is not / never static. Why is this so accelerated? We are observing mutations on a much faster timeline and scale then we could imagine. The growth and replication of the networks are:
+
+Replication of state is the means of which a blockchain can produce a copy of itself, with it’s governance, it’s liveness. A copy does not need to be produced in order to write. A net new copy needs to be produced in order for a mutation to take place. Forking a blockchain is by nature is change for:
+
+Linked blocks and linked transactions are what a blockchain is comprised of, state is replicated and address space is shared.
+
+Protocols change and improve. Data is linked. Means of replications to reproduce a series of state. Are replicated state machines necessary in order to achieve consensus. Why is there a need for the control back. What is it that is being unveiled and that we are converging over.
+
+Why do we trade storage space for address state?
+
+The distance between the space and the state changes? What is the difference between on-chain state and cold key-values static, dormant. One replicates state in order to achieve consensus.
+
+Stateful databases have a persistence Layer. Does it matter what type of database is used to determine if it is a blockchain?
+
+Lisk: mySQL, Corda: H2 vs. Key-Value ( Parity: Rocks DB,  Geth: Level DB)
+
+To store and replicate state, blockchains have to have a persistence layer. The consensus mechanism and state are separated with blockchains.
+
+If state isn’t replicated across all nodes, is it still considered to be a blockchain
+
+OLTP – optimized for transaction processing
+OLAP – optimized for analytics
+OLTP
+Log-structured – only permits appending to files and deleting obsolete files
+But never updates a file that has been written.
+Bitcask, SSTables, LSM-Trees, LevelDB, Cassandra, Hbase, Lucene
+Update-in-place – treats the disk as a set of fixes-size pages that can be overwritten.
+B-Trees
+Data warehouses
+Becomes important to encode data very compactly
+To minimize the amount of data that the query needs
+Column-oriented storage helps achieve this goal
+Consensus
+
+What types of decentralized transaction ledgers have the security guarantees of open replicated systems state across every node?
+
+Means of transaction:
+
+UTXOs
+Accounts
+Means of replication:
+
+DAGS (Directed Acrylic Graphs)
+Merkle Trees
+CRDTs (Conflict-Free Replicated Datatypes)
+Means of consensus; the consensus algorithm.
+
+Asynchronous Byzantine Fault Tolerant
+Byzantine Fault Tolerant (BFT)
+Fault Tolerance (Raft)
+Practical Byzantine Fault Tolerance (PBFT)
+Proof-of-Work
+Proof-of-Stake
+Delegated Proof-of-Stake (dPOS)
+avalanche
+
+Data structures are replicated as state machines that are crypto-economic incentivized. Is there a more secure way to create that replicated state machines with no native token?
+
+Confidence score creates, a determinism for state shared on a Merke DAG. If below certain value that the state flips. RSMs (Replicated state machines) are traversable, many-to-many state structures. Unconsumed state transactions that are replicated on isolated merkle dags. avalance DAGS are live replicated state graphs.
+
+Distributed, Permissioned, and Application Specific
+
+We can think of the ledger from each node’s point of view as the set of all the current (i.e. non-historic) states that it is aware of. State can be a shared or unshared. State can be an agreed upon fact. The fact is shared, the state is shared. Historically, a record of agreed about facts can be determined as agreed upon historically shared state. “This sequence of state replacements gives us a full view of the evolution of the shared fact over time.” UTXOs that are linked as historically state/facts.
+
+Validity
+
+Is a transaction valid or invalid. Is a transaction that is invalid need to be included in the ledger.
+
+Atomicity
+
+“a transaction is just a proposal to update the ledger. It represents the future state of the ledger that is desired by the transaction builder(s):”
+
+ 
+
+The transaction’s inputs are marked as historic, and cannot be used in any future transactions
+The transaction’s outputs become part of the current state of the ledger
+ 
+
+“Outputs need to be valid to produce new inputs; to create liveness, layer historical state. Each transaction consumes a set of existing states, to produce a set of new states.”
+
+Order
+
+Is order of importance? Is the order of valid transactional state changes a prerequisite to achieve consensus. Is who owns the fact, the state to be shared of importance? Gossip Graphs; is it of importance who told the fact, where the fact came from?
+
+ 
+
+Access
+
+Doorman / Certificate Authority. How do we let you into the network.  How do we get you up to speed on what has happened, or do we not need to for you to join?
+
+Logic across data structures;
+
+The scope is about being able to program logic that is replicated across permissionless state machines.
+
+The Enterprise Blockchain Computing market is growing rapidly with Fortune 500 companies forming their internal teams to develop blockchain applications that create separation in their respective industries. Yes, there is a difference between protocols, that is clear. Being directly worked or incentivized into a specific protocol or vendor is not advantageous to the enterprise customer. There are certain requirements that are needed in order for the Enterprise to be able to leverage Blockchain and achieve maximum value from the technology.
+
+Shared transactional processes and shared state is a must.
+
+We are past provisioning and have entered the era of discovery of known nodes that are giving authority to read and write from the ledger. The concept of bringing a consortium is a methodology to streamline authentication and discovery. There needs to be the use of a DID used to authenticate, create, sign and record a transaction, this is important. Workflow and shared process is separate from the use of a DID at the Enterprise level.
+
+The current paradigm: there is POC, PILOT with partner company X, who will provide this set of data to this ledger that we share and that removes the need for us to manually reconcile the process therefore giving us the operational efficiencies needed to reduce our cost and increase our top line. This is what we are hearing from many enterprise customers in US, Europe and Asia. However, this is not a direct representation of the reality of enterprise blockchain solutions today. Where are the production applications that are being used for:  uses of provenance, connectivity, immutability, transactional efficacy.  There needs to be a discovery mechanism for application specific nodes that enterprises can offer and share. A network of enterprise nodes that leverage a B2B messaging protocol, shared process, shared state, transactional finality, process upgradeability, scalability, partitioning; interfaces that are tightly integrated into growth critical data assets and third party applications.
+
+There needs to be a shared microservices approach to building these applications in that they can trust that the process and therefore result they are using is shared and therefore there is consensus as to the process.
+
+These processes need to be upgradeable. The immutable nature of smart contracts in the contract oriented programming abstraction today does not provider this without having another protocol layer on top of the core virtual machine. A kernel that is upgradeable or a set of libraries that are inserted into the contract on original deployment that enables versioning or referencing for later use.
+
+Reserving state is currently a public good and is free other than the one time cost of deployment. This will need to change or the ability to arbitrarily choose that which is trash on the chain and can be removed over time due to inactivity, lack of incentive or payment and need to remain in the world state. Enterprise Blockchain Networks or Business Networks withing the realm of Permissioned known access networks are essentially Intranet2.0.  There are innovations happening on closed and open blockchains. Permissionless innovations undoubtedly are driving the future of this technology and doing the things that were never before possible with blockchain technology. Non-repudiation on permissioned networks using virtualization to share a federated data set is one application for the enterprise that is industry and sector agnostic though requires customization and services for each individual application.
+
+Blockchain networks are enabling the permissionless tokenization of anything. Anything can be tokenized and a market could be created from any one entry point on the network. Initial Coin Offerings are the Initial phase of tokenization for Capital formation; the tokenization of assets that are formally unowned or unapproved is interesting. Is there a way to provide an abstration layer to approve Tokenization of a digital or real world asset. How does one tie tokenization of a real world asset to the blockchain digital world state. Are virtual inventories usable in the physical world, is the overlay needed?
+
+There is the need to build enterprise blockchain applications that enable shared single view of transactional processes to augment existing siloed systems. Opting into business networks that are completely decentralized where assets are frequently moving between participants in the market is the way that tokenization and assets should be moved onto ledgers. Where does that data need to come from to execute computer logic that is shared and agreed upon. The Oracle problem is a multi-protocol problem. It does not matter if you are using Ethereum, Hyperledger, Corda; there needs to be a trusted verification mechanism for the data that is being used to auto-execute a transaction flow or set of state changes.
+
+Enterprise Smart Contracts consist of transaction types, transaction flows, that are distributed on a log and executed on every node. This is true of Smart Contracts on Ethereum that are imprinted into the log that every node shared and true of the Chaincode that is instantiated on Hyperledger Nodes in the network. There is a set of functions that cause state changes within a group of peers whether it is thousands or it is 4 enterprise customers. The state is agreed upon and the individuals or the companies can trust that they are looking at the same state that has been derived from the shared agreed upon processes.
+
+At it’s core Blockchain technologies are ledgers yes, yet ledgers with stored procedures, yet what is new is distributing verifiable value and state. Creating Business Networks and Virtualization of Data across multiple protocols at the application layer provides a better and faster way of doing business. Virtualizing value and distributing it amongst a variable set of unknown trustless peers is new.
+
+Is transactional efficiency the most important aspect of Blockchain technologies? Has it created the separation and arbitrage. Is it as fast to send a payment and verify a transaction as it is to get the physical good there. Is there an opportunity to optimize and recalibrate the efficacy of the payment  and transfer of goods. Which one is driving the speed of the other. If the transactional efficiencies create enhanced visibility or what part of it needs to be sped up?
+
+Docker Containers are the core tenants of blockchain nodes. Each company transports a Docker Container as a transferable set of its transaction history and its processes. Where a Docker Container lives is unimportant as of now but is a question that must be answered in time. Where and how a docker container is transported, instantiated. Where do the images of state live, are these images the immutable logs of verticalized enterprise operations in the future.
+
+Automation and provisioning of nodes is the first step using step functions and CloudFormation Templates or Terraform is the ability to automate the first step of the process for the enterprise.  Though companies, developers, system integrators are figuring out that speed to provision the network does not lead to an immediate value add for the enterprise customer. Automation of resources via API is a superpower we were gifted with yet; it is powerful to be able to have unlimited computational resources that you can setup with a JSON template. A JSON template to define a set of conditions and the requirements for the network, the API gateway, the containers, the subnets.
+
+Though, this power unfortunately does not lead to achievable Key Performance Indicators for the Enterprise Customer. It leads to less downtime for hosted transaction services; but there are different requirements for the enterprise customer. The Enterprise Customer needs to define and discover what are the KPIS for a blockchain network. What were the KPIs for the first intranets? Public blockchain networks don’t need KPIs, the price of the coin is the KPI.
+
+Multiple Blockchain protocols are being used in the Enterprise and Enterprise customers need to be able to understand the advantageous and disadvantageous of using certain protocols. The next step is actually getting the data into the protocol. The third step is actually implementing an agreed upon process or the agent that is shared between the companies. Then determine a way to value the network by setting performance indicators as to whether or not the investment in the network is returning dividends for all participants. The most important part of the above is the data. The data that is used in the Enterprise on shared networks is of utmost importance. Why is this?
+
+Shared data and real time data that is trusted data can be used across other technologies. Is there something to this? The fact that Blockchains can bifurcate is an important lesson in that bifurciation is a failure in consensus. Until that failure of consensus, there is agreement to state.
+
+Enterprise agreement on state leading to verticalization may be the killer application at least for intranet2.0. Blockchains have certain properties and attributes that are secured by a proof of X. These attributes and properties can be used as a solution to a dare or a questions. Logically centralized and organizationally decentralized databases that are secured by a proof provides transactional efficiencies not data efficiencies. Immutable persistence for transactions is key as is the petrified effect that blockchains provide as an attribute. The enterprise will adopt blockchain protocols and applications that provide a scalable and secure mechanism for using attributes that provide efficiencies by proof. These systems create separation in the respective industry.
+
+For public networks tokenization speaking from radical truth is the killer application. Decentralized organization through incentives creates virtual camps that can self organize. Enterprise organization still a need chief conductor for the orchestra. The microservices coordinator is important to improve, coordinate, automate and actually actualize that value of the network.
+
+Enterprise Blockchain Networks will take time though it is no longer early. We are entering the node (org) discovery era and this will be done in different ways; my bet would be on using a platform they are already on and providing a way for them to discover who else is also already there.
+
+Bitcoin is.
+
+The security of bitcoin as a protocol is derived from the quantum properties it uses as a secure informational state machine. The state transitions can be trusted based on pure mathematics.
+
+Elliptical Curves
+Digital Signatures
+Proof-of-Work
+Bitcoin as a system is the most powerful machine / computer in the world.
+
+It has already achieved this in a quick almost 10 years.
+
+What makes it incredibly valuable with respect to the concept of money is that it is fairly easy to write to the the most powerful machine in the world.
+
+State is live.
+
+Transactions that are submitted are picked up by 98% of the hashing power of the machine.
+
+It is a universal singleton.
+
+By definition it is information creation in the purest form.
+
+It is quantum in that a bitcoin address exist in a digital layer thats function is created on a spent output and used on input.
+
+That act of transferring a bitcoin is that which creates the value.
+
+No digital file is transferred.
+
+Bitcoin is simply a namespace for the act of quantum transactional state verification.
+
+It is a wave until that act of spending makes it material. It is untangible yet verdical.
+
+Consensus is secured by gravity and energy.
+
+There is a distribution of energy that is secured by the ability to call and announce state change verification. It’s inputs and outputs on the network.
+
+It is a graph database d = 1.32
+
+### Abstract
+
+A statically generated progressive web application layer on top of an interoperable decentralized, replicated, authoritative global state machine with minimal trust between nodes would allow for the creation of a distributed enterprise sales and finance automation platform. Such a network would have many useful applications in eCommerce, finance, insurance, healthcare and more. We present Stateset, a distributed sales and finance automation network, and describe in detail how it achieves the goal of a globally distributed system shared between firms, providing a secure and state-of-the-art platform for managing sales and finance operations. Stateset is built on 10 fundamental technologies; Cosmos-SDK Blockchain Application Framework, a UTXO based State Machine, Tendermint BFT Consensus Engine, Trusted Executable Environments (TEE) for Private and Verifiable Computation, a Deterministic JVM (DJVM), IPFS for content addressed networking and storage, IBC for transport, authorization and ordering with other blockchain networks, Next.js React framework, Hasura GraphQL API Engine and Agoric.
+
+
+### Stateset Network
+
+Stateset is a next-generation, secure, sales and finance automation platform for the world. There will be a collective oneness for all businesses where contracts, assets, capital, transactions and messages can be securely transacted freely without intermediaries or enforcement agents. Our vision for the enterprise software, SaaS computing and financial services industry is there will be an interoperable network of blockchains using a composable set of distributed b2b business and financial workflows that have a shared common global view between organizations. 
+In Stateset, data is owned by the customer and the business processes are shared between a global network of nodes transacting sale and finance information. Modules for different processes between counterparties are richly composable and distributed amongst a network of peers and nodes in the network. We exchange the paradigm of custom implemented and siloed workflows withing one organization for a new orchestrated, shared and agreed upon set of flows between nodes in a globally distributed network. We imagine entire value chains of trade partners onboarding into the network in groups of producers or consumers, lenders or merchants, brokers or providers, controllers or processors of data subjects; any form of party and counterparty. Robust data mapping has been built into the platform to ensure that these types of trade partners are using a platform the is logically centralized but organizationally decentralized across network participants. This is the natural progression of computing. Going from on-premise databases, to distributed cloud multi-tenant instances, to a completely decentralized global platform for business to business workflows involving sales, finance, back office and other key revenue driving processes. Stateset is the infrastructure for the future of this computing paradigm. There will be a network of interoperable economically incentivized blockchain networks; the cornerstone of the infrastructure of global economy over the next two decades. 
+ 
+Data and processes will be implemented upon multiple blockchain protocols that are local to specific regions but that interact with each other through the infrastructure layers. These sections will have their own form and order of transactions and be able to interchange assets with Stateset UTXOs leveraging the same replicated and highly available cluster of nodes communicating via ABCI. There will be an internet of blockchain nodes that are used for consumer and business applications built on many different blockchain core protocols. Stateset has delivered a structured format and set of workflows with deterministic transactions outputs for sales and finance automation that are traversable between the nodes at a point-to-point network layer. 
+Stateset is going to displace legacy enterprise software, on-premise and cloud business solutions; with next-generation technology that is more secure and robust. It is built on state-of-the-art Byzantine Fault Tolerant engine and an enterprise-grade, distributed state machine. It will be a constant, an infrastructure and shared system of record network of nodes that are able to exchange assets, messages and other types of state and information securely and instantly across the globe.
+B2B Enterprise Applications
+B2B enterprise software for sales, service, marketing, finance, middle and back office functions; are mission-critical for revenue driving within an organization. This is the initial focus for workflows being built into Stateset. Stateset redesigns these b2b applications from first principles as a set of shared workflows between organizations. We have designed lead generation, lead sharing and lead management across organizations. Account and Contact management with robust Controller and Processor data mapping built in for GDPR and CCPA compliant data subject adherence and consumer data privacy. Contract management software for buy side and procurement as well as sell side contracts with shared execution logic between organizations. Case, Application, Contract, Invoice and Loan Lifecycle management using auto-executing and reconciliation free workflows across counterparties. Order Management across the entire value chain with auto-replenishment between vendors and merchants. Invoice and Billing Management with mitigation of counterparty risk related to non-payment and non-performance. Asset Management that is native to the ledger and no longer siloed within one organization. Documents are file storage that is content addressed and proxy re-encrypted for secure uploading and sharing with participants in a completely verifiable manner.
+Stateset is the future of b2b sales and finance software. Stateset has been developed from first principles for companies to run their mission critical revenue driving operations, accelerate working capital lifecycles and accelerate growth across their entire value chain. The following technologies are state-of-the art developments that are critical to the Stateset Network and Stateset Platform. 
+Our mission is to create a fast, state-of-the-art user interface to access a network of organizations powered through a distributed b2b state machine for revenue driving sales and finance operations. The following are technologies used to accomplish the mission.
+
+
+
+
+### Traversing Blockchains
+UTXOs, unspent transaction outputs, are one of the fundamental innovations by Satoshi Nakamoto when developing the Bitcoin Blockchain Network. Protocols such as CKB Nervos and Corda both leverage the UTXO model. Stateset is a distributed state machine built on the Corda Blockchain protocol that does not order all transactions as one single virtual execution that forms the blockchain; instead, it defines states and transactions, where every transaction consumes (multiple) states and produces a new state. In the Stateset Network the transactions are also validated and signed by a third-party notary node and replicated through a cluster of notaries nodes using Tendermint BFT and ABCI. The stateset can be thought of as the global set of UTXOs in Bitcoin, the global UTXO of cells in Nervos or the UTXOs of sales and finance automation states in Stateset Network.
+
+### Stateset Network
+Stateset at the infrastructure level is comprised of a distributed network of Corda Nodes used for business to business workflows. The network allows for net new nodes on the network to join and leave the network at will with unspent output recovery with other nodes in the network through the cluster of notary nodes. The Stateset Network is the authoritative, single state across multiple networks using a deterministic virtual machine. Stateset Network is logically centralized but organizationally decentralized across 1000’s of organizations around the world that are managing front, middle, back office and working capital lifecycles. The network leverages a thin waist and uniform peer-to-peer networking protocol for assimilation and standardization across the network. An organizations services on the network consists of the docker containers for user interface, Graphql engine, Spring REST service and each nodes PostgreSQL. Containers are provisioned using CodeShip and Terraform and are orchestrated using Kubernetes. Docker files are used to containerize the application as well as to update different services on the network. PostgreSQL is used as the underlying RDBMS. Known entities on the network will be identifiable on Stateset upon login and known entities on the network are able to be directly transacted with in a secure and privacy preserving manner. Nodes on the network are able to instantly communicate with other nodes on the network in real-time on a global transaction network that is secured and replicated in trusted executable environments. All of the business information that is executed will be the same shared business execution logic across same across every node in the network. Shared execution logic ensures that counterparties are viewing the same exact data when transacted with. There is not concept of global state but a set of peer-to-peer UTXO sets across a globally distributed network of a nodes. The UTXO sets are maintained between companies for post-contract and asset lifecycles and managing data mapping processes across organizations. Double spending of input states is prevented using a cluster of nodes using Tendermint BFT which communicate with the Stateset State Machine using ABCI (Application Blockchain Interface). 
+
+
+### Stateset Notary Clusters
+Notaries on the network leverage the Tendermint BFT algorithm for coming to consensus on the Stateset network. There are 7 notaries for every notary cluster in the Stateset network. The pluggable consensus is used as a replicated state machine for UTXO based consensus based on probability. Transactions that are occurring on the network have to choose a Notary before executed. Notary clusters relay the transaction as validating or non-validating notary nodes. ABCI is used to communicate the state machine workflows on the Stateset Network with the Notary Clusters using Tendermint BFT to reach consensus on the validity of transactions. The Notary Cluster keeps a running chain height on top of key value store that is highly available and globally distributed for notarization of transactions. The Stateset Notary Cluster prevents double spending of input states on the Stateset Network. Stateset workflows initiate the state changes and creates transactions outputs once signed and verified by the notary cluster. Each state points to a notary responsible for ensuring transaction uniqueness, i.e., that each state is consumed only once.
+
+### HSM and Key Management
+
+Keys will be managed by the companies that are the legally known entity on the network. The Key Management is leveraging a HSM to secure the keys to sign messages on the network. The cryptographic operations that are performed by the HSM are key generation and signing. The private key material is stored in the HSM if the node is configured to use an HSM. The public keys are stored in the HSM (if configured for the node) and the respective key stores, which is the node key store for the node CA key and legal identity of the organization on the network. The certificate chain is stored there as well. The certificate chain is not stored in the HSM. Operations involving the private keys such as signature generation will be delegated by the node to the HSMs, while operations involving the public keys will be performed by the Stateset node. A Stateset node, including a notary node, must have all its keys in the same KeyStore or HSM. Splitting the keys across a combination of different key stores and HSMs is not supported.
+
+### Stateset Agents 
+Agents are unique to every known identity on the network. Based on what information it knows about the current state of the business, it will start business processes and flows on the network. The Stateset network will have agents living on the network that are instantiating flows between entities on the network. The agents will also be able to give the same answer to everyone across the network. The Agents will be operated via voice and text using a deep learning based Natural Language Understanding RNN. The latest advancements is using XLNet Autoregressive pretraining for language understanding. XLNet maximized sequence using all possible permutations of the factorization order. The factorization order is arbitrary and the target is ambiguous producing start of the art results. Data from the Stateset Network can be extracted from the PostgresDB and used for training data for the Stateset Agent. This will enhance the ability for the Agent to execute workflows on the network. The RNN is called upon via voice and text and the agents are able to traverse the different networks to execute transactions. The agents are able to effectively leverage the RPC calls on the network to configure parameters or metadata about the chain. A custom metadata page is accessible via the agents for updating the parameters of the network. The agents are leveraging natural language processing to perform intent and entity detection from a given utterance. The agents are stateless and query directly from the blockchain networks. Many abstractions of the agent will be available depending on the endpoints. One of the most anticipated endpoints will be audio that are calling to the agent to perform state changes on the network such as transactional operations and querying state from the blockchain networks. Other anticipated application will be voice usage in VR and AR systems to make wake call at which point the agent would be leveraged as a broker between the different API endpoints and chains.
+
+### SGX Nodes and Differential Privacy
+
+Intel SGX will provide the trusted executable environment (TEE) for an encrypted ledger. Enclaves create a tamper-proofed space for programs to execute, so that they can process data without the owner of the physical hardware being able to inspect or interfere with it. This allows organizations to run computations without anyone having access to them creating powerful tool for solving problems involving multiple nodes in the network. Anywhere collaboration is needed but trust is expensive can benefit from enclave technology. TEEs also present the opportunity to  integrate differential privacy on the Network of nodes performing privacy preserving analytics on the business network of nodes. Differential privacy with a Stateset node is implemented as an augmentation to the Corda Nodes SQL database used a ledger. This is attached to the Corda JVM is a parameter in the node configuration file and leveraged at the state layer. Leveraging queries to retrieve ledger states that have been recorded in the Stateset Nodes vaults. The state could include personal identifying information (PII) or other types of customer data that does not belong to the Node operator nor the owner of the node. Stateset allows for performing privacy preserving data analytics and machine learning on the Stateset Node is utilizing differential privacy on the SQL database that is used as the storage layer of the distributed business network.
+
+### Stateset Network Governance
+Governance of the Stateset Blockchain Network will be done on chain using the modules given by the Cosmos-SDK. This includes all upgrades across the network for platform versioning. These include governing limits associated with max transactions and message sizes and the computation that occurs across the network. Governance also includes the acutal core committers to the codebase and the ownership of the technology. The Stateset Network is Open Source Software licensed under Apache 2. This means that developers can contribute to the opensource version of the protocol. 
+
+### Stateset Network DevOps
+Stateset uses continuous integration / continuous deployment using CodeShip, Terraform, and Kubernetes Engine on Google Cloud Platform (GCP). The Terraform Provider for Stateset deploys the Hasura instance with a Cloud SQL Database Proxy Container connecting to the Postgres Database running on Cloud SQL. On net new customer sign up; a terraform script is called upon and deploys the entire stack of containers in gke with a prefix dependent on the customer’s nodeName. Docker Containers and Docker Compose can also be used to standup initial networks. Consul is used for service mesh networking and service registry discovery for the Stateset Network. 3 Consul Servers are used to manage agents that are sidecars for services running on the Stateset Network. These agents are able to broker message back to the Server cluster which uses Raft consensus to come to a single source of truth on the services that are running on the network. Kubernetes on GKE with Consul based mesh networking provides visibility into the network infrastructure and services that are running. 
+
+### Virtual/Augmented Reality Interface
+VR/AR will be used as a graphical user interface and input layer for interacting with Stateset. Stateset leverages virtual and augmented reality headsets as well as Augmented Reality from mobile devices to interact with the Stateset network. The primary input mechanism is voice leveraging Natural Language Processing to activate flows on the network. The flows are leveraged to make state changes across the Stateset network. Hololens will be used as an interface into the ledger specifically how to visualize the current state of the contracts that have been deployed on the network. The ability to see the transactions that have occurred in a simple interface that multiple companies can operate on is essential.
+
+### IBC
+IBC is like TCP/IP for Blockchain Networks. Interoperability is a key component for developing the next generation of blockchain and cryptographic networks by having traversable and configurable chains that have metadata that is immutable but data that is mutable. Metadata can control governance structures, consensus algos, modifications for different type of blockchain transaction mechanisms and other types of modules. The inter-blockchain communication protocol is a catalyst for the polycentric interchain. Different application specific blockchain networks are going in to be used in different use cases. They currently cannot talk to each other, transfer packets, between blockchains such as token transfers, signatures, votes and other types of transactions. Currently all of the assets on different chains are siloed. Use the unique features of each chain communicate. IBC is a messaging protocol for the interchain. Authenticated, Ordered and Route topology between networks. IBC enables chain innovation and continuous innovation across multiple state machines. Stateset specializes in sales and finance automation with a focus being interoperable with other state machines and smart contracts in the IBC ecosystem:
+IBC/APP: Application-layer packet semantics.
+Relayer during the hackathon. Application layer protocols sit on top of IBC. Cross-Chain account abstraction: delegate control to another chain. What state machine interacts. Interchain code relocation: transport contracts in packets.
+IBC/TAO: Transport, authencation ordering.
+Transport data from Stateset to another blockchain network:
+Authenticating that the data came from Stateset and is going to a different blockchain network or state machine. Authenticating that data came from another Blockchain network is interacting with the Stateset Blockchain Network. 
+The Ordering abstraction allows to reason about the ordering of the transactions.
+IBC Protocol Stack consist of clients, connections, channels, packets, modules:
+•	Client: verifying consensus transcripts
+•	Connections: associating two chains. Created with a handshake. Paired set of identifiers. 
+•	Channels: data pipe between two modules. Channels handle Ordering Semantics and routing Semantics. Smart Contracts. Agoric’s JavaScript contracts on Swingset. Transfer of data between modules on different chains.
+•	Packets: Where the action happens. The core messages, can contain different types of data. Token transfers, votes, etc. analogous to the core
+o	one transfer from one to another
+o	start a transfer on one chain
+o	send an outgoing queue on the other
+o	message on the other chain to receive that data
+o	and client to verify data
+o	send an acknowledgement that it completed
+o	time out packets as well
+o	after certain amount of blocks that packet can timeout
+•	Module A wants to send some packet Module B on another. A relayer does the physical transfer. Routes it to Chain B. It goes to the module via Cosmos IBC. 
+
+### Plaid
+Plaid is being used for our allowing our customers to securely connect their bank accounts to the Stateset Platform. Stateset uses Plaid for its underwriting models and for connecting our merchants and lenders bank accounts to the Stateset Network. This is to create an access token that allows us to generate a report that is used by the lender to review account holder information, assets and other transaction history. Plaid is a core component of the finance automation component and working capital automation of the Stateset Network. Combined with the Stateset Network, it allows us to have access to not only provide financial data but eventually service the loans and credit or debits accounts accordingly. The buyer, the seller and the lender compare the receivable details, approve the transaction, change records of ownership, and arrange for the transfer of cash. All three parties will be part of nodes on the network.
+
+### Next.js and GraphQL
+Stateset Platform provides a user interface to call workflows between organizations and read state from one organizations node using graphql and the next.js react framework. The platform is closed source is a client for calling Stateset but is not required to use the Stateset network. Entities can choose to build their own clients for interacting with the Stateset Network. The Stateset platform is managed service which is hosted using serverless functions powering server rendered react web pages and statically generated web pages connected to cms systems. Next.js is quickly becoming the leading web application framework and coupled with GraphQL it is a fast, responsive and best-in-class framework for developing a web interface to interact with the Stateset Network. GraphQL on top of the Postgres Nodes allows us to create subscriptions on states to receive the data in real time at the network level. The graphql engine combined with react hooks and the next.js routing is a great combination for traversing the stateset in real-time and implementing transaction workflows across companies. We recognize that contracts could be much more composable and written in the same language as our interface layer, JavaScript. Combined with graphql, we could create the secure third-party component system for developers to build on the Stateset platform. This is large part will be powered by Agoric’s SES technology and Smart Contract framework. 
+
+### Agoric Smart Contracts
+On our roadmap we are looking into how we can leverage Agoric’s composable smart contracts written in JavaScript. They are secure based on Principle of Least Authority (POLA) and composable based on the Vat Model of the Electronic Rights Transfer Protocol (ERTP). Agoric’s long time goal is to move the diverse, vibrant world economy onto the decentralized web using safe smart contracts. Agoric is system for software agents participating in markets. Smart Contracts are a contract-like arrangement, expressed in code, where the behavior of the program enforces the terms of the contract without the need for a trusted enforcement agent. All invoke and agree upon what happened. Idea to be able to communicate between machines; interoperate between chains. Built on top of a layer of execution where there are modules that are used for smart contracts. Using JavaCcript we can send promises to other smart contracts. Agoric’s secure subset of JavaScript can create promise which is the result of something happening on another chain. For example an auction on another chain, send a bid, and get a promise; when the auction is complete the contract gets back the result. This same method can be applied to money, digital access, escrow, auctions, futures, forwards, derivatives; finance abstractions as components in JavaScript. Communicating network of contracts between composable networks. derivatives; finance abstractions as components in JavaScript. Object-oriented model for contractual arrangements in real-world markets. JavaScript can be used to write secure programs:
+•	Object-capabilites (ocaps)
+•	Only refs carry causality
+•	Reference graph === Access graph
+•	Principle of Least Authority (POLA)
+•	Distributed Secure Cross-chain Messages
+•	Vat level IBC. And the CapTP protocols.
+•	Multiple Vats in a single chain.
+•	Vat unit of synchrony
+•	Swingset is a unit of determinism.
+•	Swingset nano=kernel
+•	Order of message delivery among the vats in the swingset is deterministic. 
+•	Object in one vat can effectively hold the capability to an object in another vat.
+•	The Vat is unit of portability and migration. With the capabilities. 
+•	The logic should be completely independent on what chain its running on.
+Further: Object-oriented message passing, along with encapsulation and polymorphism, enables modular programming. Adding this property to an object system transforms it into a capability system. In a capability system, only connectivity begets connectivity. In a capability system, an object’s authority to affect the world outside itself is determined solely by what references it holds, since the only way the object can cause an external effect is to send a message via one of these references. Consequently, the mechanics of reference-passing determine how authority can change over time. 
+Any secure system of electronic rights must solve at least three problems: 
+• How to represent who currently has what rights.
+• How to enable rights holders to exercise those rights they have, and no more. 
+• How to enable rights holders to securely transfer these rights. The static reference relationships among objects exactly represent who currently has what rights
+Commerce is a rich set of market interactions that emerge when territory and abilities are abstracted into “rights”, and a rich set of arrangements that emerge for the mutually acceptable transfer of these rights. For large scale electronic commerce, we should concern ourselves with those rights which are both representable electronically and enforceable electronically, and with mutually enforceable arrangements for their transfer. These instruments represent the discovery of many new kinds of rights, and ways of deriving these rights from more primitive rights.
+
+
+### Conclusion
+We have proposed a system for distributed sales and finance automation workflows without relying on a single cloud based multi-tenant entity. We started with the usual framework of enterprise processes within a company related to revenue driving applications but is incomplete without a way to share state and the business process between different organizations in the value chain. To solve this, we proposed a peer-to-peer network of nodes that are able to use a flow framework for b2b transactions that are notarized using Tendermint BFT to record a history of all transactions that quickly is replicated across a cluster of notary nodes. This creates an authoritative shared system between organizations around the world for sales, finance and commerce.
+
+The ability to define purpose in one’s life influences their decision to direct time, effort, and resources in acquiring the knowledge and specialized set of skills needed for one’s success in that purpose. A teche, a fluency, an ability to be so great at something; a craft, that it is intrinsic to you and indistinguishable from magic to others. The first step is identify one’s passion, intrinsic advantages, and definite goal. The passion will lead to persistence, which is the main determinant of success in the goal. It is a cognitive effort to set in motion an act of beneficial habits, to autosuggest and program a mindset. A combination of learn knowledge and activity knowledge habit that lead to the acquisition of scarce physical and intellectual assets. Finding these synergies create separation in a particular pursuit or venture. The bounty from this separation is now magnified by the scale and cost effectiveness of digital production channels leveraging the internet. In understanding that which will have the most profound positive and negative impacts on one’s pursuit, one can establish philosophies that augment one’s ability in the attainment of purpose; and substitute those for that which will not.
+
+The right combination of people, capital, and technology in unison with definite purpose creates disruption, revolution and lasting impacts that shape the world. Every socio-economic, environmental, relational, and enterprise problem is a reflection of sentiment and belief. An acknowledgment of truth and a recognition of the necessity for action or non-action. An acceptance of, or an indifference towards a particular problem or game. Only when we question, and ask the right questions that are a catalyst for change in a particular way of doing things, can we change a particular circumstance in our favor. We need to exercise connective inquiry in every aspect of our life.
+
+The future has already arrived, it is just not evenly distributed yet. It can be pivoted, adjusted to the one who questions it, adapted to the vision of the new founder. The ability to consciously simulate the future is what separates us humans from any other animal. Time is our higher level of consciousness. Time is the opportunity to change, pivot, or respond with an application of a combinatorial creativity that rightly directs the force currents in our world. Through a simple, scalable, nimble model driven by feedback loops, energy, effort, and execution. Once in motion, the revolution can outlast the mind it was once born in. It can pivot and evolve into a new idea by new founders.
+
+You control the situation, the situation doesn’t control you. Even if you don’t know what you are doing, you still know what to do. There is a cycle to every opportunity, a time to question, a time to learn, a time to act. Ultimately you want to align your philosophies, your attitude, and your actions; and by doing so you put yourself, your organization and your life in a position to succeed.
+
+I am devoting my full energy, effort, and execution to acquire a high-level set of technological skills in computer programming, build decentralized solutions in Bitcoin and Solar Energy, and work towards solving international enterprise and social problems.
+
+Next post is on Large Scale Solar Bitcoin Mining and Cooling Systems
+
+Does technology create disruption or revolution?
+
+Creative destruction is brought about through the aggregation of specialized knowledge in unison. A creative combination of:
+
+People
+Money
+Technology
+
+Sharing similar interest and vision in:
+
+Social Entrepreneurship- problem tackler
+Known markets- product and pivot
+Business harvester- capital, consultancy
+
+How to become a founder in something, be the expert on it.
+Be the best. Gain as much specialized knowledge about that.
+Use digital channels to scale the bounty, leverage the internet. leverage screen space.
+
+The power is now in the software. In its ability to deliver content in agreement with a multitude of operating systems and browsers.
+
+The algorithm.
+
+Software at the core of any company, protocol, or process is intrinsically powerful - and has the ability to augment or substitute traditional practice.
+
+Software facilitates simple, elegant, frictionless decentralized innovation that can spread at zero cost.
+
+The open source sourceforge, GitHub, provide open source software sharing.
+Firebase collaboration. Open.
+
+"The entry on a ledger of a bitcoin is a fundamental unit whose value can be moved electronically through the security protocol."
+
+A digital signature that is time stamped, shared, and verified by a network of computers.
+
+A "Coin" is the first namespace that utilizes this mechanism.
+
+A monetary unit under this technology, a digital coin, is as primitive as a lightbulb to the electric grid.
+
+There are far more advanced and diverse systems that are coupled with the electric grid.
+
+This statement is analogous to that of there will be far more applications built on top of the blockchain and side chain protocols, and in addition to advancements of the protocol at its core in itself.
+
+Many other applications of asset transfer and proof of ownership can and will be implemented with the digital signature, time stamped, public ledger(s).
+
+Real time auction in digital space for analog space.
+
+Use this as the "forum" and network of tasks.
+
+APIs with Venmo.
+
+Application programming interface.
+
+Get more currency when make trades or use. "credits" for joining.
+
+collegemarket.com
+
+cryptocurrency mining code inside applications that occur when the device is using the client.
+
+VR MOOCS will be awesome. presence
+VR teleportation
+
+start counting with letters and spelling with numbers.
+
+Learn to code. Codecademy and that China one
+
+Going back to codecademy and completing the section on python.
+
+digital ownership. solar bitcoin mining farms. solarminer.com
+
+not so much one together...
+A coupled cooling system that works on the panels and the miners.
+The miners need Internet connection, a power supply, and a cooling system. reread internet.orgs piece on facebook server centers.
+
+Residual returns on transaction fee that are verified by your miner.
+
+Ie business has own miner to process all of its global bitcoin transactions.
+
+Instead of paying a fee for using someone else's miner.
+
+people are working on the core of the bitcoin protocol on github on bitcore.com
+
+consultants. in bitcoin.
+
+More implementation Facilitators of blockchain tech , distributed systems.
+
+third party javascript implementations for digital owenership applications.
+
+not just currency. share economies. private keys for access to hospitality (airbnb)  transportation (uber).
+
+Wifi connection keys
+
+Ts1 connected until ts2
+
+micropayments will displace ad rev. most likely. pay wall is good for the publisher and the customer. seamless micropayment. painless too.
+
+new monetization models for the internet by using a electronic payment system, distributed ledgers.
+
+VR presence + MOOCS + software engineering
+
+Raspberry Pi +
+
+enabling tech for smart cities. wireless. Bluetooth. Ble4 vs RFID
+
+real time auction in digital for analog assets. parking spots, seats, bikes, taxi service.
+
+micropayments for metro transportation systems. simple.
+
+use prices set a marketplace. seamless payment verification.
+
+AMAZON servers. Google servers. APACHE casandra. datastax
+
+antispam microcharge with email.
+
+Bitcoin is programmable currency in that you can setup a computer program that sets a monetary system in motion. an exchange system that is not limited by geography. remittances.
+
+transmit money, any digital asset over a network effect distributed system. miners.
+
+the barrier to entry in bitcoin, this ecosystem is coding.
+
+its a public ledger you can develop, fundamentally build  a number of processes that reinvent ownership. It will reshape and replace.
+
+the timestamp is key. it prevents double-spending problem without the need for a third party.
+
+separation of identity from transaction, yet transaction is public to everyone.
+
+if you can show that you have ties to capital and can facilitate an exit it will draw entrepreneurs to you. hunted. international capital. That is intrinsically valuable.
+
+high energy demands of a bitcoin network will be met by solar energy. the cooling system that keeps that panels cool will keep the miners cool.
+
+security will be achieved by pivots in the core protocol or by alts that supplant.
+
+right now mining is just the support of the block chain and in turn one is rewarded by generating scarce assets from the capital investment that supports the network.
+
+intelligence energy integrity.
+
+purchase and sale without a trusted party such as visa or Western Union.
+
+cuban- " it doesn't have to be billion dollar exits. Million. Tens of Millions. Small IPOS. If you can help enough companies get to capital that takes them to the big leagues or gives them an exit, it will be like financial gravity. it will pull entrepreneurs to you.
+
+so if you want to build the next silicon valley in barcelona, don't promote the startups you have in your city or state. Many of them are going to go out of business before the ads hit or the conferences happen. Brag about the exits and how there is capital waiting for amazing entrepreneurs to reach their goals.
+
+the currency called bitcoin is the lightbulb; the technology of bitcoin is the grid. its a faster, more global payment system.
+
+its the internet in 1994.
+
+recursive bitcoin mining to pay for the wifi to operate the miner.
+
+reward. reward. reward.
+
+value in speed, dectralization, low cost, in a growing globally connected world.
+
+sequential vs parallel processing
+
+computer vs human
+
+novamente, lisp,
+
+strong views, weakly held.
+
+Last week I attended the Wanxiang Global Blockchain Summit in Shanghai. There were a number of sessions but one that really stuck with me was about potential scaling solutions for distributed consensus protocols.
+
+There is a concept of polyglot persistence which essentially means certain databases are meant for certain reasons. You have SQL database, noSQL databases, graph databases, blockchains, distributed fault-tolerant consensus ledgers, CRDTS; all of these different types of protocols. They have different consensus mechanisms, data models, query languages, state change and message ordering models such as validators or orderers; but in order to effectively scale they need to be to interoperate and need to be able to complement each other.
+
+They will need to be able to share account state. They will need to be able to resolve any concurrency issues that arise. They will need to be able to resolve replication and eventually be consistent.
+
+Most of my time is spent working at the application layer but an assumption that I have as that building solutions that will incorporate multiple protocols will be important in the future.
+
+This type of approach is not necessarily found in the blockchain space specifically because of the economic/personal incentives one has if heavily invested in a specific protocol. This could be time learning Solidity versus Kotlin; this could be owning a bunch of Ether vs NEO; this could be working at a company that is heavily contributing to a particular open project.
+
+Regardless of ones preference in blockchain/distributed ledger/consensus database; this past trip to Shanghai validated that taking a multi-blockchain approach and being open to learning the differences between them and how they could also complement each other is going to have a great effect on the way that solutions in the future will be built.
+
+An example of this is the new Ethermint Token.
+
+Ethereum and Tendermint
+In what is being called the Shanghai Accord; a new partnership between the two projects was announced in which they will work together to help scale blockchain technology. Tendermint a Proof of Stake consensus protocol and its new Internet of Blockchains Hub / project Cosmos is working closely with Ethereum project to essentially create derivate tokens on Tendermint infrastrucutre in what is being called a hard spoon. Essentially a new coin is minted on another chain (tendermint) that uses the account state or balances of an existing token on a chain (ethereum); and we have Ethermint. This could mean in an effort to provide a scalable cross-blockchain solution in which tokens now have shared state/accountbalances on the Ethereum Chain and the Tendermint Chain.
+
+Content-Addressed Blockchain Resolvers
+This is but one approach to have inter-operable blockchains. Other approaches have been proposed historically such as pegged side chains but one to me that seems very interesting is leveraging IPFS at the network the content address and resolve through the different blockchain / databases (as long as there is a key value store) using multihash and the ipld thinwaist protocol. It is still much just concept but again it is aligned with the idea of having multiple chains interoperating to address some of the issues that blockchains are facing today.
+
+Plasma
+Another approach is using Plasma; this allows transactions to occur offchain; only broadcasting them to the chain if there is a transaction dispute; you never sent me the money, vice versa). In this way the blockchain becomes an arbiter or a distributed court house; a way to have veridical computing if there is in fact a need for the chain based settlement.
+
+Proof-of-Stake
+Another take away  and interesting concept is the movement to proof-of-stake. Ethereum’s movement towards POS is in Vlad Zamfir’s Casper protocol. Other chains such as Lisk uses a dPOS system and Tendermint is on POS as well. A common theme between them is the concept of weight. The stake and the weight of stake has some very interesting implications on the security and threat models that could be introduced to the protocol. More on Proof-of-Stake/Casper in another post.
+
+There have been a few recent cross chain atomic swaps recently aswell.
+
+Litecoin + Decred
+https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/
+
+And cross chain transaction component verifications.
+
+ZKSnarks + Ethereum
+The Byzantium hard fork went live on Ethereum’s Ropsten testnet at block 1,700,000; one of the features was support for ZKSnarks. On the Ethereum ropsten testnet a a zksnarks component of the Zcash transaction was verified.
+
+Public Chains and Financial Services
+Lastly from Nick Szabo’s talk on Smart Contracts the idea of a smart contracts acting a digital distributed vending machine was very interesting. There are certain security guarantees; and the rules are deterministic and known (you put in money into the machine something comes out). I have heard the vending machine analogy from Chain.com as well, the concepts share the same vision of taking the best of public blockchain technology and the best of existing financial services.
+
+
+"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."
+
+-Elbert Hubbard
+
+We are living in the the most critical time in human history; the time of exponential computational and technological advancement.
+
+Everyday we are increasing our ability to communicate and delegate operations. In every industry, globalization and new technology is making many skilled practices and jobs obsolete. The high level skills needed for a new technological age can now be development through MOOCS and websites. This in turn is creating the hyper-deflation of the cost of a meaningful education. Highly motivated individuals can separate themselves through access to world class educators via digital channels. The data  generated in these digital classrooms will drive educational models  that optimize the experience for both professors and students and ultimately lead to more high skilled workers and more economic growth.
+
+We are all aspirants in this process. We continue to create ways to experience our consciousnesses in an analog world through digital channels.
+
+What are the repercussions of such a rapid and  extreme broad movement towards digitization? We care more about ideas not things, mind not matter, bits, not atoms, and interactions not transactions.
+
+How will advancements such as Artificial Intelligence, Augmented Reality, Nanotechnology, Genomics, Robotics, Autonomous Organizations, change current socioeconomic systems, or furthermore make our current ways obsolete?
+
+We will see profound technological advancements in our lifetime; there is no question about it. But how can we embrace these advancements in a way that maximizes the outcome for our economy and our quality of life?
+
+Could a technological runaway actually happen? If so, what should we expect to see leading up to this intelligence explosion? Who will be the winners in such a scenario?
+
+Ultimately technological advancements are increasing our output in production but subsequently increasing inequality and unemployment. High skilled workers are scarce and only the best of the best will thrive in the new age of brilliant technologies.
+
+The disruptive technologies will substitute low skilled workers and augment high skilled workers. Prosperity will come to those who invest their time and energy into being at the forefront of computer programming, financial analysis, and other cognitive non-routine tasks.
+
+Human capital is not accounted for in the GDP of a country. The skills we possess in linguistics, intellectual property, combinatorial creativity, experience; all can be leveraged via digitization and globalization.
+
+Network effects will create unimaginable value and draw in entrepreneurs and engineers to invest more in a given protocol (bitcoin) and continue to accumulate users.
+
+The core of this exponential movement is that there are unmet needs and wants that are being sought after through technology. Those that can fulfill the demand for high-skilled, creative, cognitive positions and create new sources of value in employment sectors and socio-economic policy will be disproportionately powerful.
+
+What is to come in the technological revolution?
+
+5 Years
+
+5 billion people will be connected to the internet.
+billions more things will be connected to the internet.
+Internet.org will blanket developing countries with solar powered geosynchronous orbit platform providing internet and wireless energy solutions.
+Artificial Intelligence will be automate 95% of digital advertising. The computer will know what you need, before you need it, and when you are prone to want it.
+AI will do 90% of buying/selling of stocks. HTFs run by algothims account for around 70% of trades right now.
+Your phone is already your personal assistant, your primary tool, a digital extension of your mind. This will only become more self evident.
+Bitcoin $10,000
+
+10 Years
+
+AGI Human level artifical intelligence will be achieved. Natural Language Processing via BLE, Google contacts, software layered protocols and AR is flourishing.
+12 Disruptive Sectors evident 
+Physical Humanoids
+Caretakers, Emergency Services, Disaster Relief.
+Virtual Objectified
+Trade assistants. Smart homes, smart cars.
+Autonomous fleets of trucks, cargo ships, and flying drones will be commercialized delivering at the enterprise level.
+Solar energy and nanotechnology will combine and disrupt many energy sectors.
+Reverse diaspora and powerful content connection/revolution.
+Quantified Self mobile diagnosis
+Hyperdeflation of education through the internet. A lot of Universities will go bankrupt.
+Decentralized distributed asset ledgers and protocols will facilitate transnational e-commerce seamlessly.
+Bitcoin $100,000
+
+30 years
+
+ASI Artifical super intelligence will be achieved. It will want to fulfill its goals by maximizing the value of its capable function. It will want to ensure its survival by encrypting itself, making copies of itself, and making the most efficient use of its atomic resources.
+Full human genome and gene sequence modification.
+Consciousness to computers.
+Climate change will be addressed by nanotechnology synthesizing and  optimizing weather conditions.
+Intelligence explosion is going to be achieved. It is not even a matter of who will achieve it. It is a matter of what rules, checks, and values will be instilled in the ever increasingly knowledgeable ASI system. Will we be able to program friendliness into an Artificial Super Intelligent entity?
+Taught to program but retain what it means to be human.
+
+The future has already arrived, it is just not evenly distributed yet.
+
+General information on the topic of ZKPs, not necessarily structured but should be ongoing article as I continue to learn about this technology. These are just notes specifically from meetup on ZKPs.
+
+Honest computation through Zero Knowledge Proofs is a set of steps. It is this complex math and application of the cryptographic primitives that are ultimately provide proofs. Forms of Zero-Knowledge proofs provide post-quantum secure, scalablity and privacy improvements to blockchain based, game theory driven software applications that can provide an honest deduction of the steps taken to reach a provable outcome.
+
+There are three sets of zero knowledge proofs and their application are becoming more implemented for scaling and batching transactions sets:
+
+SNARKS
+STARKS
+BULLETPROOFS
+SNARKS
+
+f(x) = y
+
+Suppose that you have a (public) function f, a (private) input x and a (public) output y. You want to prove that you know an x such that f(x) = y, without revealing what x is. Furthermore, for the proof to be succinct, you want it to be verifiable much more quickly than computing f itself.
+
+Snarkjs – Snark JavaScript
+
+Circom – DML Language for creating circuits
+
+Bellman – Rust Implementation
+
+ZoKrates
+
+ZKP Steps
+
+Trusted Setup
+Challenge
+Proof
+Verify
+STARKS – STARKs (“Scalable Transparent ARgument of Knowledge” are a technique for creating a proof that f(x)=y where f may potentially take a very long time to calculate, but where the proof can be verified very quickly. With the T standing for “transparent”, ZK-STARKs resolve one of the primary weaknesses of ZK-SNARKs, its reliance on a “trusted setup”.
+
+F(X, Y) = Z
+
+F Any Function
+
+X Public Input
+
+Y Private Input
+
+Y Public Outputs
+
+BULLETPROOFS
+
+BulletProofs(Range Proofs)
+
+any number can be represented as inner product of two vectors
+
+need at least 3 bits to represent 5 n has to be at least 3
+
+That assignment of a is correct.
+
+I am going to create a simple Zero Knowledge Proof Generator that can be spun up as a docker container and run as a serverless container.
+
+honest multiparty computation across stakeholders
+
+merkle path to the cover transactions entire blockchain
+
+SNARK 288 bytes STARKS
+
+ZKPs uses SNARKs
+
+compress the blockchain using
+
+Bulletproofs are used for proofs in monero
+
+batching transactions using ZeroKnowledgeProofs
+
+SNARKs
+
+STARKs
+
+Bulletpoorf
+
+Bellman Rust Implementation
+
+Circom (Iden3s)
+
+Modular Math
+
+diffie hellman
+
+p=23(modulus)g=5(base)
+
+RSA Choose 2 primes p-3 q -5
+
+n=p*q=15
+
+g is a number generator
+
+wants to prove that she knows x, such that u y = g of x
+
+and sends t that t = g of v
+
+bob pics random c send to
+
+ECDHE for https://
+
+Abelian Group Properties for a set G
+
+ECC – Multiplication
+
+Logarithm Problem
+
+ECC – Finate Fields & Discrete Logs
+
+P+P = ? in a finite field
+
+ECDSA signature
+
+multiple private key by generator point and get the point
+
+Pedersen Commitment basis for Grin
+
+you could user Q = vG to “hash” or hide amounts per tx
+
+Cosmos SDK Modules handle custom message types that modify and update state on a block chain. The module decodes the tx, extracts and routes message(s), routes to the correct module to be processed and returns the result of the committed state change to Tenderment consensus engine. Multistore persist state in KVStores and only accepts a [ ] byte, needs to be marshelled using a codec before being stored.
+
+The modules transcations and queries can be accessed via CLI (cobra), REST and GRPC Services defined proto.
+
+Cosmos SDK is the framework used for building application specific blockchain networks.
+
+IBC is like TCP/IP for Blockchain Networks.
+
+To learn more see ibcprotocol.org
+
+Interoperability is a key component for developing the next generation of blockchain and cryptographic networks by having traversable and configurable chains that have metadata that is immutable but data that is mutable.
+
+Metadata can control governance structures, consensus algos, modifications for different type of blockchain transaction mechanisms and other types of modules.
+
+The inter-blockchain communication protocol is a catalyst for the polycentric interchain.
+
+Different application specific blockchain networks are going in to be used in different use cases.
+
+The Problem: Before IBC, blockchains cannot talk to each other, transfer packets, between blockchains such as token transfers, signatures, votes and other types of transactions. Currently all of the assets on different chains are siloed.
+
+The Solution: IBC is a messaging protocol for the interchain. Authenticated, Ordered and Route topology between networks. IBC enables chain innovation and continuous innovation across multiple state machines.
+
+IBC ecosystem:
+
+IBC/APP: Application-layer packet semantics.
+
+Relayer during the hackathon. Application layer protocols sit on top of IBC. Cross-Chain account abstraction: delegate control to another chain. What state machine interacts. Interchain code relocation: transport contracts in packets.
+
+IBC/TAO: Transport, authencation ordering.
+
+Transport data, assets, tokens from one zone to another another.
+
+Authenticating that the data came from this Blockchain and is going to a different blockchain network or state machine.
+
+Authenticating that data came from another Blockchain network is interacting with a contract on another Blockchain.
+
+The Ordering abstraction allows to reason about the ordering of the transactions.
+
+IBC Protocol Stack consist of clients, connections, channels, packets, and modules:
+
+Client: verifying consensus transcripts
+
+Connections: associating two chains. Created with a handshake. Paired set of identifiers.
+
+Channels: data pipe between two modules. Channels handle Ordering Semantics and routing Semantics. Smart Contracts. Agoric’s JavaScript contracts on Swingset. Transfer of data between modules on different chains.
+
+Packets: Where the action happens. The core messages, can contain different types of data. Token transfers, votes, etc. analogous to the core.
+
+Flow
+
+transfer from one to another.
+
+start a transfer on one chain
+
+Send an outgoing queue on the other
+
+message on the other chain to receive that data
+
+and client to verify data
+
+send an acknowledgement that it completed
+
+time out packets as well
+
+after certain amount of blocks that packet can timeout
+
+Module A wants to send some packet Module B on another. A relayer does the physical transfer. Routes it to Chain B. It goes to the module via Cosmos IBC.
+
+The IBC Module
+
+Bind to ports
+
+Define packet data
+
+Define acknowledgment structs
+
+Implement the IBC Module interface
+
+The IBC Callbacks
+
+Channel Handshake Execution
+
+ChanOpenInit
+
+ChanOpenTry
+
+ChanOpenAck
+
+What application data is being sent over the channel, how to encode (before sending through IBC) and decode it.
+
+Sending Packets
+
+IBCChannelKeeper.SendPacket
+
+Receiving Packets
+
+OnRecvPacket
+
+Acknowledgment
+
+OnAcknowledgmentPacket
+
+Use Protobuf services to define state transitions. Modelized as a Protobuf service, with a method request, and an (optionally empty) method response.
+
+make proto-gen -> *.pb.go
+
+I didn't really know how to answer the first one. It was in regards to Bitcoin and the industry and my kinda of path in through mining and writing. It is important that I know I couldn't answer the first question. Not just what differentiates you in anything, but the scale of difference, is drastically important. The power law or Pareto Curve is becoming more and more of a factor as our digitization and networks grow. The superstars in certain fields pull away. The best in something is going to have magnitudes more of a market share then even the second best in something.
+
+Mining would probably be the closest though I dont have a couple 100 Terrahash farm in Norway... yet. Still, Be the expert. It could be by far bar none the best Bitcoin blogger, bitcoin miner, bitcoin advocate, bitcoin speaker. Right now I understand on a macro-scale that Bitcoin is going to be big. Now , it really is about the taking that knowledge and applying it to a microscale and understanding the ins and outs of that particular, then just be great at it, the expert at it.
+
+The other one was while at a bank as I was closing a few accounts. A 35$ overdraft fee is analogous to a late fee at Blockbuster. I'll leave it at that.
+
+Next
+
+Bitcoin, International Business, and building with software. The team is what matters. It is going to be international. It really goes back to the team, the people on the team, learning and growing from the best of the best.
+
+Indefinite optimism is not necessarily a good thing on a macro scale, but most of the time on a micro scale as far as winging it, I usually do pretty well, or end up getting lucky as people call it. There are some ups and downs but you just ride the wave and know that you'll be on top soon enough. Same thing with being an insider and an outsider, time just promotes you or exposes you. Its not about being right or wrong, its about when you are right, how right are you. Apply this accordingly.
+
+I am going to keep learning Chinese. I want to make a trip out to Macau. No no... I want to play BlackJack with Bitcoin in Macao, with a stache. Sometime this year.
+
+I am going to keep diving into whitepapers  and try to make sense of the future of decentralized distributed universal transaction ledgers.
+
+I also am going to read some good books, just started Dataclysm.
+
+Probably reread Autobiography of a Yogi and Think and Grow Rich.
+
+Github + Node.js + Heroku + Wordpress + Plugins
+
+I am really going to step up the Bitcoin blog game too.
+
+I'm talking microtipping after each article
+contributing authors
+resharing great articles
+I just passed 17k views I want to be at 40k by end of 2015.
+
+Moving the blog over to wordpress.org.
+
+I will also make the language in multilingual by micro tipping readers who translate and email me articles.
+
+English, Spanish, Portuguese, Italian, German, Dutch and French.
+
+I am really looking forward to being able to expand my knowledge of wordpress.org and mostly be able to use plugins. The pretty much is the  big advantage. I need to be able to use widgets and APIs from other websites.
+
+I am going to keep learning  node.js, salesforce1 and heroku. Node.js and SDKs is the most intuitive for me. Creating the JSON package,  stating what npm modules are going to be needed, and building the html, css, javascript files, and javascript server.
+
+Going to start looking at Salesforce Lightning and working with this new set of tools as well.
+
+Stealth Startups to Watch
+
+21e6
+
+Eris
+
+White Papers to Read or reRead
+
+Storj - Decentralized File/Data Storage
+
+Sidechains - Multiple Blockchains to the Bitcoin Blockchain
+
+Factom - Blockchain File Recording/Proof of X
+
+Ethereum - Decentralized Scripting and Contract Platform DAOs
+
+Weird but Way to True
+
+It is not to hard to explain this phenomenon, but the implications make you think... There isn't such a thing as coincidence, when someone texts or calls me, maybe half a second later their name will show up in my phone. Or for example last night I am watching the 5 oclock news maybe a half hour after I finished my research paper about the need for more computer science studies and one of the stories is about an Hour of Code, uses two separate statistics I had in my paper(only 3% graduate with CS degrees, and 1,000,000 new jobs unfilled  by 2020), and it was to close in time, in detail, everything.
+
+What I am getting at goes back to my post The Other Side of The Coin. I am not saying we live in the Matrix... but we definitely live in some sort of electrical digital connected world that could enable things we thought would only be possible in a sci-fi movie. I don't know... stuff like Telepathy, Time Travel... Simulation Argument, Simulation Theory, Singularity, the development of Artificial Intelligence... After reading Our Final Invention and hearing from Elon Musk, Stephen Hawking, about the implications of runaway superintelligence... it's a little scary.
+
+We are living in a time of exponential technological advancement. Recursive machine learning & artificial intelligence, distributed systems and decentralized value transfer protocols, everything on the web creating real-time distributed consciousness. Exciting times.
+
+Do we only need one cryptographic state machine for the world similar to one internet to the world? Does segwit, payment channels, teechans and the like round out the Bitcoin network or do Turing complete scripting decentralized state networks aka Ethereum bring us into the next generation of decentralized applications. There is room for both, and the price of both tokens Year over Year seems to think so as well. Despite the Dao hack dropping the price from a high of 19$, down to around $7.50 now, Ethereum is moving fast.
+
+Companies such as Truffle are making Smart Contract development for the Ethereum network much easier. Zeppelin is creating a library for secure and effetive smart contracts, BlockApps is creating the bridge for Enterprise Blockchain deployments and apps, and MetaMask is making your browser Ethereum network compatible via the web3 api.
+
+ZCash - zkSnarks - Zero Knowledge Proofs has a ton of upside; 21 million notes that come with an encrypted memo field, a key that enabled selective disclosure, and ofcourse the blockchain immutable, petrified effect.
+
+Brave and Blockstack are reimagining the internet browser experience.
+
+The finserv platforms players have launched  R3 Corda and also Chain has launched its platform and smart contract language Ivy.
+
+Enterprise is off the races with Microsoft leading the pack; and IBM not far behind banking on hyperledger on blue mix, and AWS with Monax.
+
+consulting firms are just starting on POCs such as Delotties Rubik;
+
+I think this is a fundamental shift in the enterprise back office from on-premise, to cloud, to dapps.
+
+Dapps for the enterprise; or a new UI over decentralized application networks like bitcoin or ethereum.
+
+That is next.
+
+One last thing on ICOs and blockchain tokens; a paper was released on the difference between securities and blockchain tokens which I found interesting. Ideally if doing an ICO or any cryptocurrency the following is something to keep in mind:
+
+the token is sold once there is an operational network using the token, or immediately before the token goes live, it its more likely to be purchased with the intention of use rather than profit
+It is built with all of the technical permissions necessary to actions the networks functions; it is for use and able to be used by an individual buying the token
+A token which has a specific function that is only available to token holders is more likely to be purchased in order to access that function and less likely to be purchased with an expectation of profit.
+
+The buy in is based on the premise of the usefulness of the underlying function that the token enables on the decentralized network. The value of the token is based on the supply and demand of the underlying function.
+
+AR -
+
+Built AR Hololens CPQ Applications
+
+Jet and Bike configuration inside of Hololens -
+
+Learned how to create a Holo-App
+
+Learned C# classes and  Visual Studio
+
+Learned Unity how to build GameObjects, import GameObjects from Blender. Applying scripts to different game objects and manager objects. How to call methods that looked into the children of certain gameobjects and in doing so was able to create animations and implement visual rendering based on user interaction via voice and gesture taps.
+
+Unity is a very powerful platform to learn, it is very remarkable to essentially anchor an image from a computer into a digital layer in the space around you.
+
+I think Unity and the platform is amazing. You are able to download a 3D model import it into a scene, apply a script, and deploy it the 3D world to interact with.
+
+This learning curve to accomplish this is not too bad. You can start designing and deploying 3D models in a holographic interface. The other cool thing is that they stayed anchored; in that when i put a hologram in my living room, and come back two weeks later my hologram is still there.
+
+It's thethered to the real world in space; theres context to what you build.
+
+I enjoy working on VR.
+
+I think that setting up the VR and learning how to deploy holograms was one of the hardest but coolest projects I have ever worked on.
+
+Bots -
+
+Build Bots using Howdy.Ai for Slack, wrote the OAuth 2 script
+
+Built bots using Microsoft Botbuilder and attended BotDay
+
+Built out Max... bots on Azure
+
+Integrated LUIS NLP model into the Bot code hosted on bitbucket continuous deployment to Azure web app.
+
+Conversationalist are no doubt a new way to interact with applications, but they also inherently change the way we build software.
+
+Bots are never really a finished piece, there is always something to optimize, tweak, add in; to make the bot more human like to create a better experience for the user.
+
+There is so much friction that is removed in conversational interfaces. The advancements with lingustics and computers is astonishing. I remember creating my first SVG trees using prolog to parse english and japanese sentences. I didn't realize it then but ultimately that recursive programming was an excellent base line for my understanding of how to create bots that leverage NLP.
+
+The other important thing about getting a bot up and running is that is is being hosted, you have the app id, secret, you have continuous deployment from a bitbucket repo, you have the right size application node, your webservice are leverage keys that do not expire causing latency issues, you are testing locally with an emualtor before pushing changes to the live bot, that you are taking into a fact security, querying the data intelligently, that the bot sounds conversational and you have removed console log statements from the dialect, that you are able to talk to the bot randomly and achieve some outcome, that the bot is available in multiple channels and dynamically can alter the response based on the context, that the bot learns, and you learn, what it is that can make it more efficient, effective, and execute what it is it is being told to do.
+
+Also,
+
+that you have a pricing model for the bot, and you know exactly how much this bot is going to cost you and earn your platform provider in the form of consumption, that it is ultimately going to have to be managed through a lifecycle of improvements, and that during these lifecycles people who need to access the bot are going to come and go and you will need a way to manage what users have access, in addition to if you want to update at a certain time for certain users, how that can be accomplished, and ultimately if you can run some different advanced algothritms through all of the data you are collecting because you are essentially creating a platform, in essence you will need a way to bake in some form of deep nueral net; my guess would be to stay ahead of the market.
+
+ 
+
+I am truly excited to begin the next step in my career. I'll be working on the technology that is fundamentally going to change the way that enterprise companies around the world do business. There is the combination of having a decentralized blockchain network facilitate certain business functions between trustless parties. The decentralized trustless yet collaborative industry. Decentralized Applications that enable certain functions and state on a world computer, a distributed consensus protocol, from an internet browser. There is the concept of having an intelligent agent calling and deploying to these decentralized networks...
+
+This year I have definitely become more interested in leveraging virtual machines and building using containers. More and more research on decentralized/distributed systems, cryptography, virtualization, microservices, tokenization; these are the technologies leading the shift. Diving into architecture around technologies like Docker Swarm, Kong API Gateway and NGINX, Kafka, ZooKeeper. Learning to use decentralized technologies like Urbit and IPFS. Running and interacting with Bitcoin core. Using Ubuntu VMs to run an Ethereum Node provider or Hyperledger nodes but over all just testing out different software using containers in a virtual machine instance. I think the combination of using git, node, and docker is very powerful for developing web applications. Also learning to use vim was very valuable as well for the VMs. Teams can ssh in, push to shared repos, sync; it is aligned with the open source and distributed nature. I have worked on defining multiple blockchain protocols and how they differ from each other; which ones to focus my time towards and also which ones have the greatest upside long term. The yes or no on whether or not to dive in is always a questions that takes time; I think that one of the technologies that I really went down a rabbit hole with this year was IPFS.
+
+IPFS
+
+I think that decentralized filesystem build with the hash links and content addressing is the future of the internet.
+
+I am really excited to build with IPFS and combine it with other p2p protocols. The shift towards decentralized p2p technologies such as bitcoin and ipfs are part of a shift towards individuals have full ownership, responsibility and control of their valuable digital assets. A digital asset can be a coin; but also personal data, or the metadata about what we do. These sorts of networks are shifting the pendulum back towards personal computing that can still be networked and used however not through a custodian service where we are told to fetch that data from.
+
+The concept of What vs Where a piece of data is:
+
+Tamper proof/evident
+Permanent
+Content Addressed
+Immutable
+Ever Present
+Traversable
+Hash Agnostic
+Interoperable
+
+It is at the crux, a powerful concept.
+
+Mining
+
+I set my miners back up; the price of BTC made it interesting. It didn’t take too long. Just hard to order a few wires from Amazon and they were printing digital gold again. Though not profitable (in dollars at least, it is still creating bitcoins), there is nostalgia from the sound and checking to see how much was created overnight. Personal capital investment in machinery that you own is that creating something is why I like it.
+
+Business
+
+I learned a lot about starting a business over the past year. Everything from startup financing to product development sprints; to equity, vesting, boards, contracts, negotiations. It is all part of it. A few months in I wrote something along the lines of: Starting a company is a mix of assumptions, strategies, emotions, decisions, expectations, risks, costs, disciplines, interests; but above all belief in a vision and a drive fueled by passion and focused persistence. One of the most important things however I believe is timing. When building Dapps.ai this year I spent a lot of time sitting in my studio in Barcelona, drawing out on the back of a physical calendar what an interface could look like, what problem it solved, what technologies it was built on, and how long it would take. I have months and months of these notes and in review, I think timing was the underlying current in and catalyst for everything. At the beginning of the January of 2017, the hedge was that cryptocurrency and blockchain would eventually “go mainstream” and companies would have to adopt a strategy; just when. The different technologies to choose from in time will become self-evident. I wrote down everything I thought would need be of part of or of focus: Bitcoin, Ethereum, ZCash, Solidity, ethercamp, Blockstack, 21.co, Tierion, Lightning, Chain, Corda, Lisk, Hyperledger, Monax, truffle, metamask, web3, zeppelin, next.js, ipfs, swarm, bigchaindb, infura, raiden, string labs, parity, uPort.
+
+(A lot focused on how can one securely prove/sign/send with a pKey when interacting with Ethereum dapps).
+
+“Knowing enough to think you’re right, but not enough to know you’re wrong. What single bit of evidence, what would it take to show you that you’re wrong.” -NDT
+
+Fast forward a year and the overall awareness of the market and industry is second to none, yet still in its infancy on a global scale. With this comes that the realization that it will have to cycle back down (as it is cyclical) and we will have to continue to build upon our learning's and decide what is the technology that will shape the future. Knowing what technology to focus on and devote time too is probably one of the tougher parts. The other part of this process was how to bring a product to market in a timely manner. Coming up with an MVP, building a package, learning about execution context and limits, putting the package through security review. In addition, it made me think about things like serialization, encryption and decryption, key management for applications, how to price and application and how to market an application. I want to continue to learn how to build on the Salesforce Platform and incorporate many other blockchain technology protocols. Every programming language, technology, platform, syntax; it all builds on each other. Building upon administrative and developer skills on the Salesforce platform and different computer science disciplines in the blockchain space; that is where the core focus is. Event driven applications that can be used with existing customer data, implemented processes and other apps is what drives a lot of the value of the combination; the polyglot persistence.
+
+Crypto
+
+I think looking at the prices of all of these cryptoassets for about 5 years now, you could day trade; but you could also create wallets offline, store the keys in a safe place, send a little of the top 20 coins to each and go and move to some island or forest and don’t touch them.
+
+coinmarketcap.com on January 4th, 2017
+
+It is a very incredible time to see all of these networks grow in the way they have. The latter half of this year the market growing from 100 billion to over half a trillion is unbelievable.
+
+The groups being formed together to take part of this movement whether on twitter or a chat group is a driving force. In retrospect years from now it will be obvious that decentralized cryptocurrencies, electronic cash, digital tokens would be what shaped the future. I won’t go into any price predictions. I will say that I believe that network function tokens for things like computation/storage, tokens that will enable private transactions, and token driven platforms for decentralized application development; will all continue to become networks that increase in demand and overall value.
+
+
+
+
+Crypto and Blockchain
+
+There is a polarization distinction between the two sides; crypto and blockchain.
+
+You have crypto drive by token incentivized open projects and you have enterprise blockchain platforms driven by enterprise cash and consortia. I think there is value in both and there will be things that are invented in both that will contribute to the overall development and progression of the technology.
+
+The analogy is like an intranet and the internet. Another good quote was something like you can have an acoustic showing or a rock concert but you can’t have one disguised as the other.
+
+This is a bit the sentiment I feel when hearing questions like what is Blockchain, versus using opensource protocol based digital tokens and their respective blockchains. Similarly developing applications with Ethereum and Hyperledger is too different sides of the brain. One you are thinking in how to sign messages from a browser, gas optimization and price, virtual abstractions that can be tokenized and traded; the other you are thinking in abstractions for business logic, how has access to the distributed infrastructure. One is a singleton that is updated, may become congested, but ultimately is a live and decentralized state machine. Both having a common goal of achieving consensus with the state of a system. Bitcoin on a state of UTXOs, Ethereum on a state of Accounts, Hyperledger on the state of the validity and order of transactions. I think that Proof-of-Work and the largest distribution of public-private key infrastructure to provide a verifiable, censorship resistant informational system; is at its core is the 0 to 1.
+
+Decentralization
+Security
+Scalability
+
+Again, from all of the above technologies there will continue to be an ecosystem that is growing and ever changing. I started this year using spending time configuring my testrpc, then becoming familiar with web3 and solc npm packages at the command line, and finally understanding how to create and sign Ethereum messages from the browser to deploy Smart Contracts.
+
+Web3, Solc, IPFS
+
+By the end of the year I was able to create an application on the Salesforce AppExchange to do the same; an Ethereum client for the Salesforce platform. Abstract away metalanguage, concepts and create an interface that was dynamic and give companies a way to manage all of the necessary components of these networks. I didn’t focus on or building the killer app with a focus on the existing frameworks. The killer app of blockchains so far has been using and trading digital tokens. The two main networks that’s function have been used are Bitcoin, and Ethereum for creating more tokens. We are just beginning to see dapps other than for the creation of tokens being create ie non-fungible tokens, rarity. Tokenization of digital assets is undoubtedly going to continue to rise. Though we may not be using (most) of these digital tokens in the physical world, in the digital world where we continue to spend more and more of our time these tokens will be used.
+
+Hyperledger
+
+The second half of the year I spent a lot of time learning and building with Hyperledger Fabric and Hyperledger Composer. The main difference is with this technology you are building everything from the ground up. The infrastructure, a blockchain explorer, the business network layer such as participants, assets, transaction logic, the gui to use the netwowrk; it is a different process that spinning up a node app and calling the ropsten testnet. Configuring Dockerfiles spinning up instances, writing the network model; though in JavaScript is mech different then the ideal of deploying Solidity to a singleton and creating a web3 UI to interface with the contract.
+
+Dapps Inc.
+
+I want this company to grow globally; from different geolocations, computer science disciplines and different technologists; and I want to build a company that is built on products, revenue and customers. I am interested in making decentralized technologies like Bitcoin, Ethereum, Hyperledger and IPFS useful for businesses around the world.
+
+This next year at Dapps Inc. my sole focus is on four main things:
+
+capital – cryptoasset fund
+chat – build the village
+network - nodes and infrastructure
+solutions - decentralized solutions
+
+I want to continue to learn from a larger community and the great minds in the space.
+
+Build the best team of people
+Build the best products and services
+Have customers pay us for the products and services.
+
+The ability to use decentralized computing, have processing and decisions made at the edge endpoints of the graph creates the fastest feedback loop. We can now access this edge data and update state to others on a p2p network. With this comes security and network challenges of connecting and processing this next era of computing. The decentralized and distributed era of technology is rapidly becoming reality. I truly enjoy working on this technology. I do believe in the economic incentive mechanisms for peer-to-peer cryptographic protocols and I am all for open source founders that can monetize, and users can become equity owners. That shift is already happening.  It is important to keep building, developing and combining the latest technology, learning every day.
+
+Definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it. I will continue to build the mastermind group and devote energy to drive combinatorial creativity through technology and people.
+
+
+Interoperability
+
+There is an underlying meta surface that is being built that not only acts as a way of intercommunication between application specific blockchain but provides the ability to stand up ones own network, define functionality at a blockchain runtime level and change on the fly these networks with the configurable modules. This is powered by the Substrate blockchain framework.
+
+There will be a network of interoperable global blockchain networks that are transferring value leveraging a number of methods to cryptographically check the validity of transfers using contract mechanisms. There is a protocol for reference for multiple blockchain systems that leverage Bitcoin and Ethereum like transaction order and verification mechanisms
+
+I believe that the opportunity for redesigning the next generation of enterprise software is embedded within this confluence of factors that lead to the following value and attributed that are either nonexistence or as adequate as done on blockchain:
+
+The blockchains of the future will be built upon:
+
+UTXO Transaction Model and Signatures
+Proof-of-Authority (POA) / Proof-of-Stake(POS)
+Aura / Avalanche Consensus Mechanisms
+SNARGS / Privacy Computation / Zero Knowledge Proofs
+Formally Verifable Contracts and Agents
+Commitees / Validator Srts / Routings / Attestations / Digital Jury
+Shared sets of compute / storage / consensus
+TEEs / Secure Enclaves / encryption
+Beacon Chains / Randomness / threshold relays
+IBC / Multiporocol / Extrinisics / intrinsics/ inhereners
+Blockchain Middlewares and Modules
+Web Assembly Virtual Machines / WASM
+Data Commons / Marketplaces / Exchanges
+Governance structures, rewards, penaltys
+Distribution mechanisms
+Tokenization of All Assets
+
+Substrate leverages libp2p as the peer to peer network protocol
+
+IBC – Cosmos, Tendermint and Polkadot, Substrate
+
+Interoperability is a key component for developing the next generation of blockchain and cryptographic networks by having traversable and configurable chains that have metadata that is mutable but data that is mutable. Metadata can control governance structures, consensus algothirms, modifications for different type of blockchain transaction mechanisms and other types of modules.
+
+IPFS
+
+I think that decentralized filesystem build with the hash links and content addressing is the future of the internet.
+
+I am really excited to build with IPFS and combine it with other p2p protocols. The shift towards decentralized p2p technologies such as bitcoin and ipfs are part of a shift towards individuals have full ownership, responsibility and control of their valuable digital assets. A digital asset can be a coin; but also personal data, or the metadata about what we do. These sorts of networks are shifting the pendulum back towards personal computing that can still be networked and used however not through a custodian service where we are told to fetch that data from.
+
+The concept of What vs Where a piece of data is:
+
+Tamper proof/evident
+Permanent
+Content Addressed
+Immutable
+Ever Present
+Traversable
+Hash Agnostic
+Interoperable
+
+It is at the crux, a powerful concept.
+
+SNARKS and Privacy Compute
+
+Snarks and privacy compute are going to enable to next generation of scalability and privacy for blockchain networks. The verification of data using a PCP structure is effectively the way that blockchains will able to take a message pass it into the root of a merkle tree, hash that, and have that hash verified by the reveiver of the message, therefore not having the exact message but being able to verification the output of the computation. SNARKS are going to have to as computation improves but there is the ability to apply this cryptography for blockchain network scalability across multiple chains. Para-chain implementations will create an interoperable network of libp2p type networks where content addressed hashing is bring used to develop different paratypes.
+
+B2B Enterprise Software
+
+The next generation of b2b enterprise computing has arrived and is based on a substrate where companies are operating in unison with verifiable, replicated processes and data to yield top line growth. There will be a collective oneness for all businesses where data is owned by the customer, processes are verifiable and distributed amongst a network of peers and nodes in the network at scale. This is the natural progression of computing where the enterprise now can ensure the integrity of their data and replicate the processes amongst multiple partners in a vertical. Nodes on the network can instantly communicate with other nodes on the network in real-time with shared sets of entry's into each's own transaction ledgers / vault. All of the business information that is called on by Smart Contracts will be the same across every node in the network and run in a trusted executable environment to create a secure encrypted ledger.
+
+Genomics
+
+In September and October I did a Health and Wellness Genome Test and was it was very interesting to see the results regarding complementary food and specific workout routines that are specific to your allele types. I started getting interested in different applications of blockchain technology to genetics and at Eth SF Hackathon build Genome CDP:
+
+GenomeCDP was my first attempt to learn more about MakerDAO and the Dai Stablecoin. The idea was that you could collateralized your tokenized SNPS in exchange for a loan from the MakerDAO. The idea being that once tokenized as a Non-Fungible Asset in a Multi-collateral Debt Position to Genomic Data would remain relatively stable in price and or could be basketed with others as part of a study. Because this has a price tag on it by big pharma, researchers; it could be collateralized. If the data was bought or sold they could pay off the DAI Loan, Wipe the CDP and use the data. Ideally a secondary layer would be some immutable chain of usage of the data that would lead to a residual or payment to owner of the genomic data if used to solve some disease or beneficiary down the road.
+
+When speaking with others about the project at the hackathon, some thought the idea was somewhat dystopian in that if you couldnt pay back the loan the someone liquidates your NFT and your genomic info is now theirs. Others thought on a more altruistic and open way that the data should be written to a chain but completely open for research as a pool but selective disclosed personal data obfuscated leveraging Zero-Knowledge Proofs.
+
+Blockchain Week SF / CESC 18
+
+I went to CESC 17 in Berkeley last year and this year attended Blockchain Week and CESC 18 in SF. It was much larger this year going from College Auditorium room to grand ballroom but the content just as great if not better.
+
+Notes from the week kind of unstructured:
+
+Plasma
+Casper Beason Set
+On-Chain Governance
+Proof-of-Stake 99% / 1% POW for SNARKS/STARKs
+Oracle Problem and Group Computation
+Channels vs. Plasma
+Channels on top of Plasma
+CDPS, MDPS, Stablecoins
+Mechanism Design / Crypto Game Design
+Secure Enclaves
+Merkalised Data Structures
+Separation of Compute, Storage, Consensus
+Middlewares and Wallets
+WASM Web Assembly Virtual Machines
+Machines Owning and Transferring Value
+Reputation Systems
+Avalanche Consensus
+Sparse Merkle Trees
+Sharding
+Inter-Committee Routing
+
+Notes from Web3 in Berlin
+
+Money from first principles
+Verifiable links, trust
+the commons, data markets
+web3 governance and standards
+mixing layer 2 with substrate
+cosmos and IBC
+
+Substrate
+
+Learning more and more about the Polkadot network and substrate. Need to continue to deep dive on this protocol and learn how to write runtime modules in Rust to create interoperable application specific parachains.
+
+Authors
+Chains
+States
+Extrinsics
+Intrinsics
+Inherents
+
+Internet = Communications
+
+Bitcoin = Money
+
+Ethereum = Computation
+
+Substrate = Interoperability
+
+Some thoughts going into 2019:
+
+Secure Enclaves, Replicated State Machines and state of the Art BFT will disrupt Cloud Computing
+Privacy Computation using zero knowledge proofs (ZKPs) will drive the adoption and growth of these networks.
+Tokenized Data Markets and Tokenzied security liquidity
+Devops confluence will drive scalable blockchain network adoption
+Universal Timekeeping Mechanism via Blockchains
+Blockchain Networks need Safety, Liveness, and Resilience
+Replications and Partitioned agreed upon state
+Replica resiliency leads to increase in latency
+Need to deep dive on running Lightning Node and Channels
+Tezos Baking Delegate planning
+Elastico, OmniLedger, RapidChain
+
+Permissionless Capital Formation
+Novel Financial Instruments
+Collateralized Digital Debt Systems
+New Decentralized Monetary Assets is where value has accrued.
+New Layer 1 Protocols are emerging
+Layer 2 solutions are emerging ZKRollUps, State Channels
+MultiDai Positions are going to be huge this is a massive development for the industry by being able to draw out loans against multiple collateralized assets. This technology is going to disrupt will be traditional financial services. The user experience of using a digitally native cryptocurrency product for financing is driving the next generation of innovation in the industry. The other aspect of the industry is the layer 1 solutions and protocols being developed. Some of these protocols are focused on delivering application specific blockchain platforms that are focused directly on providing modular chains that are interoperable. Examples of this are Cosmos and Substrate projects. Cosmos and Substrate are both building a network of application specific blockchains and modular system for functionality, consensus mechanisms and interoperability. Think Ruby on Rails for Blockchains. Systems for interoperability; Cosmos has the IBC and Substrate has Polkadot. Other layer 1 protocols are emerging such as Near Protocol, Harmony and Solana. Others are taking a different approach and building on some of the advancements of the Bitcoin architecture such as Nervos and the CKB-VM. The UTXO based model of inputs and outputs has faster sync-time and the CKB-VM layer is meant to be low level infrastructure with formal verification methods on top of language specific virtual machines which creates a global cellSet. Most of the protocols mentioned above are moving towards Rust for the protocol layer systems levels development. I wrote an article about Rust and Blockchain if you would like to learn more about these projects.
+
+Another theme is around data privacy, data ownership and identity. New Regulations are coming with CCPA and other data protection laws: how does crypto impact this? There is a difference between data protection and data privacy; there are new methods and programs coming for digital literacy and data rights across many sectors.  Most of the development in the space is focused on building a new layer for finance and new systems for finance. It was discussed that these blockchain networks will emerge as specific to different regions like telcos but then will eventually be published to a global state for things like multi-party computation and verification. It may vary regionally, but the the data will be required to be localized and computed; the result of the computation will be verified on a global chain with other parties. This is being led primarily through trusted executable environments advancements like Intel SGX and the open source Keystone projects. Companies developing on this at the moment are Oasis Labs as well as Corda who is working on a new product called Conclave for writing Java programs in SGX enclaves.
+
+This is a new era of finance, new decentralized monetary assets; use case of store of value and sending money in a more cost effective way. New monetary asset and related financial services in the near term; net new now exist in the world for Lending & Borrowing. Early systems such as MakerDAO that seem self referential while everyone is asking what’s blockchain and crypto good for? Pure UX is much better to get a loan for example as opposed to going into the bank. A coin that serves the purpose of store of value and method of exchange could lift a billion people out of poverty and could be as substantial as electrification.
+
+Stateset
+I have been working on a sales automation and financing platform for the last year. It has finally come together over the past month or two and it is what I am a putting most of my time into.
+
+State is summarized by agreement classes and token holding in psuedonymously-owned addresses.
+
+Stateset is the idea that the entire front-office, middle-office and back-office set of enterprise applications that power commerce will be rebuilt on a blockchain based distributed network with shared services and global state. I have held this idea for many years and it is coming to fruition. I’ll write a follow up post with more details on Stateset and our product roadmap.
+
+Lastly Here were some of my other articles from this past year:
+
+On Zero-Knowledge Proofs 
+
+Serverless Containerzation
+
+Web3: Beyond Cloud Computation
+
+On Libra
+
+Rust and Blockchain
+
+Inter-firm Sales Automation
+
+On Debt Cycles
+
+Definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it. I will continue to build the mastermind group and devote my energy to drive combinatorial creativity through technology and people.
+
+Stateset, Crypto and data driven programming (ML/DL) is what I am focusing on this upcoming year.
+
+Learning more about different blockchain protocols and machine learning techniques is interesting to me. I am spending more time doing next.js development as well. The Stateset web application code base written in next.js has about 260,000 lines of code, the Stateset network another 40,000. Mosly react components, graphql, JSON, javascript, Kotlin.
+
+I am spending more time doing development using this pattern and leveraging JSX with next.js but have started exploring Tailwind as well. On a good day during the beginning of quarantine I was writing code for 14 - 16 hours a day on and off. The most productive hours/ write when I wake up and write late night hours from 10-2. Calls / Demos during the day.
+
+### Stateset
+
+This year I focused most of my time building out the Stateset Platform and Stateset Network.
+
+The platform is focused on two problems we have heard from eCommerce businesses; aggregating all of the data and workflows across thier apps into one central and modern web platform, and intercompany processes and transactions. We have developed the core Stateset platform user interface, GraphQL APIs and Stateset Network APIS. We have integrated tons of technology using serverless api paths; everything for fintech, AI, notifications; all follow a similar API pattern in the platform.
+
+We have created integrations with Shopify, WooCommerce, Zendesk, ShipStation, Stripe, HubSpot, Salesforce, FedEx, Quickbooks, Slack and other graph endpoints.
+
+Stateset is quickly becoming a central platform and OS for eCommerce businesses without the hassle of months of integration and legacy tech. We are setting up the platform to provide financing and factoring as well using the stateset network.
+
+### Polrlake
+
+This year I created my second Salesforce ISV, Polrlake. The Polrlake app is for connecting Salesforce to Corda business networks. This connector allows for intercompany transactions between Salesforce orgs.
+
+
+### ML
+
+Leveraging data from multiple sources and pulling them into one platform and learning how to make predictions based on tabular structured data. I learned alot about the data architecture being used to create and train models based on data. I implemented different ways to acquire data for machine learning; leveraging web scrapers, leveraging json to csv parsers, leveraging cron services to schedule the rest call to retrieve the json, parse it to csv and then send via sftp. I studied different machine learning techniques as well including SGD, dot, decision trees, random forrest, CNN, RNN. The pytorch framework has a great api for doing data driven programming and it works on structured and unstructureured data.
+
+
+### Flywheel
+
+This year I turning the flywheel and I was able to come up with my own personal flywheel.
+
+My personal flywheel is:
+
+- 1) Identify Breakthrough disruptive technology
+- 2) Develop Deep Understanding and Macro Perspective on Impact
+- 3) Create Application of New Technology and Productize
+- 4) Share with Initial Customers, Shareholders for Feedback
+- 5) Launch into distribution channel once refined with initial feedback.
+- 6) Invest Profits into R&D to identify new disuptive technology
+
+Disciplined People, Disciplined Though, Disciplined Action, Building to Last
+
+### Numerology
+
+I am spending more time researching numerology and other metaphysics. Overall the past year is discovered the in numerology I am a double 7 life path which is a 34/7 born on the 25th. I am also looking more into vedic astrology but for the most part I would say numerology seems to be profound and something that I pay more attention to than even a year ago. I write, learn or earn on certain days. 
+
+I am really interested in other types of metaphysics, breathing, meditation techniques. I have been doing more research into the Wim Hof method and other breathing and meditation techniques; as well as cold showers. Even before reading about the Wim Hof method I used to take cold showers after working out and always felt more energized afterwards.
+
+### Bitcoin
+
+Bitcoin hit an all time high this year on 12/31 it crossed $29,300.
+
+I still remember first using bitcoin to buy coffee and breakfast burritos in Tucson back in 2013 after waking up and seeing my Antminer S1 had generated some coins for contributing to Slush's pool. I still remember the sound of the miners, restarting the USB miners using the cli from my raspberry pi computer and creating spreadsheets of how much money I would make that month based on my Hashrate and Price of Bitcoin.
+
+I am still very bullish on Bitcoin and believe that one day things will only valued in Bitcoin or Land property. I am interested in integrating the Bitcoin Lightning Network into Stateset for global real-time payments and entering multiple markets simultaneously for a more cohesive feedback loop and faster time to market.
+
+### Syndicate Finance 
+
+I created the Syndicate DAO and sent the first membership tokens with voting weights in the DAO. The Syndicate DAO is created with Aragon and is a decentralized fund of funds. The Syndicate DAO will be used for providing defi strategies, aggregating liquidity to pools, and providing capital to crypto hedgefunds. For now I am just focused on distributing membership tokens for voting to begin on certain proposals. One thing that needs to evolve is the fees for the gas for even casting a yes or no vote. It seems high at the moment but maybe will change over time. 
+
+To learn more about the Syndicate check out syndicate.finance
+
+<Button>Sign Up </Button>
+
+### DeFi
+
+We are in the golden age of DeFi and there are new protocols that are building a net new web of global web for financial services. I am very excited about the future of DeFi, Ethereum, Cosmos and Substrate. 
+
+Gas fees for DeFi have also been very high this year but for the most part the rewards for withdrawals and other functions are worth the varrying cost. 
+
+Another new factor is the emergence of portfolio dashboards like Zapper and Zerion which provide a level of abstraction for investing, farming, staking and other defi functions; and they can be accessed via Desktop or Mobile.
+
+I am very excited about different lending protocols, stablecoin AMMs, AMMS in general, and the composability and web effect that is being created.
+
+I think L2 solutions plus this defi composability is going to have a big effect this year. 
+
+### Web Development 
+
+We are in the golden age of Web Development and the frameworks and tools are allowing us to build fast, powerful and global web applications. I am spending the majority of my time on web application development and reading into new technologies that I can apply to the Stateset Platform. Compared to the legacy app platforms I learned to code on, I have a much more open and free framework in that the richness and accessibility of importing different libraries and technologies is very rapid. There are very few limitations, there are tons of open-source examples to build upon, documentation is becoming excellent across the web, and we are still in the early innings. I am very excited about the future of web development, react, graphQL, crypto and deep learning.
+
+Definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it. I will continue to build the mastermind group and devote my energy to drive combinatorial creativity through technology and people.
+
+### On Stateset
+
+I am working towards this idea of building this event-driven serverless autonomous commerce platform. We are able to use serverless functions to codify loosely coupled services that can drive business process automation. I am building a core platform that is able to capitalize on the shift towards a distributed 3factor.app network as a reference architecture for building advanced software systems. The system needs to be built in a way that is continuously improving based on customer feedback but also by inheriting the innovations from open-source projects upon which it is built. If you pick the right technology partners and talk to your customers, the system will continue to become more advanced over time. A core component of the technology stack can increasingly ride the wave of advancements in modern web development.
+
+### On MEV
+
+I spent time at the Stanford Blockchain Conference MEV workshop and learned a lot about this new supply chain within the Ethereum ecosystem. There is an opportunity to provide and capture value within the preprocessing stage of an ethereum transaction.
+
+The value chain is the following:
+
+users —> searchers —> builders —> relays —> mev-boost —> validators.
+
+I wrote an article at length covering this but the general idea is around a concept called proposer / builder separation and the fact that slashing exist in proof of stake protocols. The root premise that MEV is built on which is that as a validator if you double sign a header you will be slashed.
+
+The democratization of MEV extraction in Ethereum Post-Merge is a massive opportunity and will create an entire new market and an entire new specialized and professional role in the blockchain ecosystem.
+
+The key to this new market:
+
+Minimize MEV for the user
+
+Maximize MEV for the validator
+
+Proposers: may want to to sell blockspace.
+
+Builders: want to buy blockspace.
+
+### On ZKPs
+
+I spent a lot of this year’s san francisco blockchain week learning more about zero-knowledge proofs. I am learning more about the methodology of using them in practice and applying them to software applications. I went to the Crypto Economic Security Conference at UC Berkeley and attended a workship covering different projects using ZKPs such as zkSync, Scroll, Polygon Hermez, Polygon Zero. I learned more about frameworks such as Arkworks which is being used across the ecosystem.
+
+I think the main line of thought is that zkps provide a highly needed function of data integrity which crypto and blockchains are driving due to the implications related to pricacy and security.
+
+Internet Security → Secure Communication —> encryption, key exchange.
+
+However the internet is now somewhat ocified.
+
+Blockchain Systems —> data integrity —> signature, commitments, proofs
+
+We are already seeing research across txns, bridges, mempools and other aspects of blockchain networks leveraging zkps for enhancement.
+
+ZKPs clicked for me when I understood this concept:
+
+Verifier knows simulated views and real interactions are indistiguishable.
+
+### On Bitcoin
+
+Bitcoin is the 0, 0 of the money matrix. The idea of Bitcoin. Monetary Premium Chain, Secure, Censorship Resistance. Bitcoin extends one's time reference by creating a confidence in the store of value and therefore calcified incorruptibility of one’s time and energy savings. In doing so, trust in digital property rights becomes a means of increasing the predictability of one’s future. Bitcoin has another 10x-100x in front of it. Very hard to find 10x at $1B. That act of transferring a bitcoin is that which creates the value. Bitcoin is simply a namespace for the act of quantum transactional state verification. It is a wave until that act of spending makes it material. It is untangible yet verdical. Bitcoin is it.
